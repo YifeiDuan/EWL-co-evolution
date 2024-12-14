@@ -1,0 +1,1261 @@
+region,Name,sector,subsector,technology,year,Difference,Rel_Dif
+China,Policy,electricity,biomass,biomass (conv CCS),1990,0,NA
+China,Policy,electricity,biomass,biomass (conv CCS),2005,0,NA
+China,Policy,electricity,biomass,biomass (conv CCS),2010,0,NA
+China,Policy,electricity,biomass,biomass (conv CCS),2015,0,NA
+China,Policy,electricity,biomass,biomass (conv CCS),2020,0,NA
+China,Policy,electricity,biomass,biomass (conv CCS),2025,-0.00070352,-3.0657567
+China,Policy,electricity,biomass,biomass (conv CCS),2030,-0.004458816,-11.49939425
+China,Policy,electricity,biomass,biomass (conv CCS),2035,1.954331753,2402.2751
+China,Policy,electricity,biomass,biomass (conv CCS),2040,3.55324706,1980.38683
+China,Policy,electricity,biomass,biomass (conv CCS),2045,5.753965318,1621.271227
+China,Policy,electricity,biomass,biomass (conv CCS),2050,8.514747659,1475.109043
+China,Policy,electricity,biomass,biomass (conv CCS),2055,10.84260892,1091.627157
+China,Policy,electricity,biomass,biomass (conv CCS),2060,12.67947946,813.9840315
+China,Policy,electricity,biomass,biomass (conv CCS),2065,12.80235145,558.3640283
+China,Policy,electricity,biomass,biomass (conv CCS),2070,9.771250026,305.5882965
+China,Policy,electricity,biomass,biomass (conv CCS),2075,6.934114935,165.6019768
+China,Policy,electricity,biomass,biomass (conv CCS),2080,5.719488454,113.1984481
+China,Policy,electricity,biomass,biomass (conv CCS),2085,5.757575384,93.38537103
+China,Policy,electricity,biomass,biomass (conv CCS),2090,5.74909596,76.92015615
+China,Policy,electricity,biomass,biomass (conv CCS),2095,6.232124052,69.38135907
+China,Policy,electricity,biomass,biomass (conv CCS),2100,5.046559388,46.95583308
+China,Policy,electricity,biomass,biomass (IGCC CCS),1990,0,NA
+China,Policy,electricity,biomass,biomass (IGCC CCS),2005,0,NA
+China,Policy,electricity,biomass,biomass (IGCC CCS),2010,0,NA
+China,Policy,electricity,biomass,biomass (IGCC CCS),2015,0,NA
+China,Policy,electricity,biomass,biomass (IGCC CCS),2020,0,NA
+China,Policy,electricity,biomass,biomass (IGCC CCS),2025,-4.69E-06,-0.114591907
+China,Policy,electricity,biomass,biomass (IGCC CCS),2030,-0.000378454,-4.348083442
+China,Policy,electricity,biomass,biomass (IGCC CCS),2035,0.231545071,1275.753966
+China,Policy,electricity,biomass,biomass (IGCC CCS),2040,0.447338757,1190.958976
+China,Policy,electricity,biomass,biomass (IGCC CCS),2045,0.720274954,949.8948505
+China,Policy,electricity,biomass,biomass (IGCC CCS),2050,0.95425956,750.0660963
+China,Policy,electricity,biomass,biomass (IGCC CCS),2055,1.07403235,491.1213625
+China,Policy,electricity,biomass,biomass (IGCC CCS),2060,1.12889766,331.1383956
+China,Policy,electricity,biomass,biomass (IGCC CCS),2065,1.231885186,249.4466923
+China,Policy,electricity,biomass,biomass (IGCC CCS),2070,1.103920039,161.5156659
+China,Policy,electricity,biomass,biomass (IGCC CCS),2075,0.913551342,101.4554873
+China,Policy,electricity,biomass,biomass (IGCC CCS),2080,0.778921289,71.09590779
+China,Policy,electricity,biomass,biomass (IGCC CCS),2085,0.671636012,50.65731282
+China,Policy,electricity,biomass,biomass (IGCC CCS),2090,0.56179074,35.96866449
+China,Policy,electricity,biomass,biomass (IGCC CCS),2095,0.561747369,31.2927485
+China,Policy,electricity,biomass,biomass (IGCC CCS),2100,0.40319585,19.78266332
+China,Policy,electricity,coal,coal (conv pul CCS),1990,0,NA
+China,Policy,electricity,coal,coal (conv pul CCS),2005,0,NA
+China,Policy,electricity,coal,coal (conv pul CCS),2010,0,NA
+China,Policy,electricity,coal,coal (conv pul CCS),2015,0,NA
+China,Policy,electricity,coal,coal (conv pul CCS),2020,0,NA
+China,Policy,electricity,coal,coal (conv pul CCS),2025,7.58E-05,0.030426547
+China,Policy,electricity,coal,coal (conv pul CCS),2030,1.99E-05,0.004291797
+China,Policy,electricity,coal,coal (conv pul CCS),2035,11.89171788,1551.557958
+China,Policy,electricity,coal,coal (conv pul CCS),2040,20.50267801,1604.170824
+China,Policy,electricity,coal,coal (conv pul CCS),2045,28.25477309,1291.613482
+China,Policy,electricity,coal,coal (conv pul CCS),2050,32.9808783,1009.17082
+China,Policy,electricity,coal,coal (conv pul CCS),2055,34.99448292,704.7214762
+China,Policy,electricity,coal,coal (conv pul CCS),2060,35.89379882,520.9838247
+China,Policy,electricity,coal,coal (conv pul CCS),2065,36.81330393,409.3218355
+China,Policy,electricity,coal,coal (conv pul CCS),2070,35.70138748,315.9964847
+China,Policy,electricity,coal,coal (conv pul CCS),2075,34.13177405,249.4900442
+China,Policy,electricity,coal,coal (conv pul CCS),2080,32.64174253,208.8752929
+China,Policy,electricity,coal,coal (conv pul CCS),2085,30.675927,176.0606906
+China,Policy,electricity,coal,coal (conv pul CCS),2090,28.9556615,152.3574716
+China,Policy,electricity,coal,coal (conv pul CCS),2095,18.85501611,93.20970421
+China,Policy,electricity,coal,coal (conv pul CCS),2100,10.8173917,51.00744246
+China,Policy,electricity,coal,coal (IGCC CCS),1990,0,NA
+China,Policy,electricity,coal,coal (IGCC CCS),2005,0,NA
+China,Policy,electricity,coal,coal (IGCC CCS),2010,0,NA
+China,Policy,electricity,coal,coal (IGCC CCS),2015,0,NA
+China,Policy,electricity,coal,coal (IGCC CCS),2020,0,NA
+China,Policy,electricity,coal,coal (IGCC CCS),2025,-5.13E-05,-0.175136191
+China,Policy,electricity,coal,coal (IGCC CCS),2030,-0.000122606,-0.204260564
+China,Policy,electricity,coal,coal (IGCC CCS),2035,2.028338427,1820.919818
+China,Policy,electricity,coal,coal (IGCC CCS),2040,3.723567091,1756.468148
+China,Policy,electricity,coal,coal (IGCC CCS),2045,5.453838322,1314.541882
+China,Policy,electricity,coal,coal (IGCC CCS),2050,6.620608049,973.6189023
+China,Policy,electricity,coal,coal (IGCC CCS),2055,7.179194946,636.0734935
+China,Policy,electricity,coal,coal (IGCC CCS),2060,7.46661175,447.5357513
+China,Policy,electricity,coal,coal (IGCC CCS),2065,7.781739519,341.2614004
+China,Policy,electricity,coal,coal (IGCC CCS),2070,7.525319811,253.1251574
+China,Policy,electricity,coal,coal (IGCC CCS),2075,7.132863369,192.7115755
+China,Policy,electricity,coal,coal (IGCC CCS),2080,6.757279222,156.9619201
+China,Policy,electricity,coal,coal (IGCC CCS),2085,6.265719434,127.6550697
+China,Policy,electricity,coal,coal (IGCC CCS),2090,5.83975174,107.5257575
+China,Policy,electricity,coal,coal (IGCC CCS),2095,4.16081603,71.14545416
+China,Policy,electricity,coal,coal (IGCC CCS),2100,2.55380342,41.18729155
+China,Policy,electricity,coal,coal (conv pul),1990,0,0
+China,Policy,electricity,coal,coal (conv pul),2005,0,0
+China,Policy,electricity,coal,coal (conv pul),2010,0,0
+China,Policy,electricity,coal,coal (conv pul),2015,0,0
+China,Policy,electricity,coal,coal (conv pul),2020,-5.00E-05,-5.15E-05
+China,Policy,electricity,coal,coal (conv pul),2025,0.0565014,0.055548985
+China,Policy,electricity,coal,coal (conv pul),2030,0.1073817,0.104120532
+China,Policy,electricity,coal,coal (conv pul),2035,-23.4131883,-23.42440983
+China,Policy,electricity,coal,coal (conv pul),2040,-47.78557803,-51.57365611
+China,Policy,electricity,coal,coal (conv pul),2045,-62.84293579,-76.77456675
+China,Policy,electricity,coal,coal (conv pul),2050,-62.29025008,-91.51334093
+China,Policy,electricity,coal,coal (conv pul),2055,-51.37737047,-96.0020485
+China,Policy,electricity,coal,coal (conv pul),2060,-39.00902956,-97.16725927
+China,Policy,electricity,coal,coal (conv pul),2065,-27.64135497,-93.72213155
+China,Policy,electricity,coal,coal (conv pul),2070,-18.91071241,-90.68252403
+China,Policy,electricity,coal,coal (conv pul),2075,-12.03673447,-87.72405711
+China,Policy,electricity,coal,coal (conv pul),2080,-6.495333626,-87.38454375
+China,Policy,electricity,coal,coal (conv pul),2085,-3.318106214,-89.06230238
+China,Policy,electricity,coal,coal (conv pul),2090,-1.420260256,-92.35428748
+China,Policy,electricity,coal,coal (conv pul),2095,-0.507125885,-92.4498469
+China,Policy,electricity,coal,coal (conv pul),2100,-0.170578362,-89.5854135
+China,Policy,electricity,coal,coal (IGCC),1990,0,NA
+China,Policy,electricity,coal,coal (IGCC),2005,0,NA
+China,Policy,electricity,coal,coal (IGCC),2010,0,NA
+China,Policy,electricity,coal,coal (IGCC),2015,0,NA
+China,Policy,electricity,coal,coal (IGCC),2020,0,NA
+China,Policy,electricity,coal,coal (IGCC),2025,0.0052643,0.330152701
+China,Policy,electricity,coal,coal (IGCC),2030,0.009776,0.322306002
+China,Policy,electricity,coal,coal (IGCC),2035,-0.3144679,-7.485380654
+China,Policy,electricity,coal,coal (IGCC),2040,-1.77637913,-34.6041447
+China,Policy,electricity,coal,coal (IGCC),2045,-3.79367564,-64.39458113
+China,Policy,electricity,coal,coal (IGCC),2050,-5.378807915,-86.52224289
+China,Policy,electricity,coal,coal (IGCC),2055,-5.895383493,-94.28966404
+China,Policy,electricity,coal,coal (IGCC),2060,-5.663088013,-96.47341887
+China,Policy,electricity,coal,coal (IGCC),2065,-4.820194914,-93.16330261
+China,Policy,electricity,coal,coal (IGCC),2070,-3.857860347,-90.95546517
+China,Policy,electricity,coal,coal (IGCC),2075,-2.898413599,-88.98342452
+China,Policy,electricity,coal,coal (IGCC),2080,-2.179828707,-87.75624719
+China,Policy,electricity,coal,coal (IGCC),2085,-1.289061904,-89.02025223
+China,Policy,electricity,coal,coal (IGCC),2090,-0.642018765,-89.90767088
+China,Policy,electricity,coal,coal (IGCC),2095,-0.268199734,-89.72942328
+China,Policy,electricity,coal,coal (IGCC),2100,-0.101625125,-86.34542566
+China,Policy,electricity,geothermal,geothermal,1990,0,0
+China,Policy,electricity,geothermal,geothermal,2005,0,0
+China,Policy,electricity,geothermal,geothermal,2010,0,0
+China,Policy,electricity,geothermal,geothermal,2015,0,0
+China,Policy,electricity,geothermal,geothermal,2020,0,0
+China,Policy,electricity,geothermal,geothermal,2025,8.51E-06,0.005312899
+China,Policy,electricity,geothermal,geothermal,2030,5.80E-06,0.003616699
+China,Policy,electricity,geothermal,geothermal,2035,-0.007513586,-4.698233993
+China,Policy,electricity,geothermal,geothermal,2040,-0.004861556,-3.053778587
+China,Policy,electricity,geothermal,geothermal,2045,-0.003652127,-2.312864221
+China,Policy,electricity,geothermal,geothermal,2050,-0.002326252,-1.478232894
+China,Policy,electricity,geothermal,geothermal,2055,-0.000393414,-0.25217793
+China,Policy,electricity,geothermal,geothermal,2060,5.65E-05,0.036278332
+China,Policy,electricity,geothermal,geothermal,2065,-0.001574711,-1.0116089
+China,Policy,electricity,geothermal,geothermal,2070,0.000682096,0.438698935
+China,Policy,electricity,geothermal,geothermal,2075,0.000992962,0.638992797
+China,Policy,electricity,geothermal,geothermal,2080,0.001287508,0.824909184
+China,Policy,electricity,geothermal,geothermal,2085,0.002348063,1.507817216
+China,Policy,electricity,geothermal,geothermal,2090,0.002273373,1.456637036
+China,Policy,electricity,geothermal,geothermal,2095,-0.003299353,-2.108667982
+China,Policy,electricity,geothermal,geothermal,2100,-0.001400383,-0.895428266
+China,Policy,electricity,nuclear,Gen_III,1990,0,NA
+China,Policy,electricity,nuclear,Gen_III,2005,0,NA
+China,Policy,electricity,nuclear,Gen_III,2010,0,NA
+China,Policy,electricity,nuclear,Gen_III,2015,0,NA
+China,Policy,electricity,nuclear,Gen_III,2020,-2.00E-05,-0.001048746
+China,Policy,electricity,nuclear,Gen_III,2025,0.001957,0.046975313
+China,Policy,electricity,nuclear,Gen_III,2030,0.00472,0.072896383
+China,Policy,electricity,nuclear,Gen_III,2035,10.261891,115.6214301
+China,Policy,electricity,nuclear,Gen_III,2040,16.37166,139.9674303
+China,Policy,electricity,nuclear,Gen_III,2045,22.032756,142.7567341
+China,Policy,electricity,nuclear,Gen_III,2050,25.823352,136.0791117
+China,Policy,electricity,nuclear,Gen_III,2055,26.524699,113.7939772
+China,Policy,electricity,nuclear,Gen_III,2060,26.566457,97.12810167
+China,Policy,electricity,nuclear,Gen_III,2065,27.293439,87.31412377
+China,Policy,electricity,nuclear,Gen_III,2070,25.651978,72.68832262
+China,Policy,electricity,nuclear,Gen_III,2075,23.637126,60.26378094
+China,Policy,electricity,nuclear,Gen_III,2080,21.923011,54.20915465
+China,Policy,electricity,nuclear,Gen_III,2085,19.852422,48.05004747
+China,Policy,electricity,nuclear,Gen_III,2090,18.16711,43.57056704
+China,Policy,electricity,nuclear,Gen_III,2095,9.785467,23.53330307
+China,Policy,electricity,nuclear,Gen_III,2100,4.285326,10.46329917
+China,Policy,electricity,solar,PV,1990,0,0
+China,Policy,electricity,solar,PV,2005,0,0
+China,Policy,electricity,solar,PV,2010,0,0
+China,Policy,electricity,solar,PV,2015,0,0
+China,Policy,electricity,solar,PV,2020,0,0
+China,Policy,electricity,solar,PV,2025,-6.77E-06,-0.137795941
+China,Policy,electricity,solar,PV,2030,-1.02E-05,-0.094211661
+China,Policy,electricity,solar,PV,2035,0.01739873,95.2523007
+China,Policy,electricity,solar,PV,2040,0.02132559,82.22046721
+China,Policy,electricity,solar,PV,2045,0.02202351,67.32992686
+China,Policy,electricity,solar,PV,2050,0.0220776,59.75196989
+China,Policy,electricity,solar,PV,2055,0.02110313,53.83428184
+China,Policy,electricity,solar,PV,2060,0.02050843,53.55856115
+China,Policy,electricity,solar,PV,2065,0.00764785,21.53346143
+China,Policy,electricity,solar,PV,2070,0.00498901,15.22254189
+China,Policy,electricity,solar,PV,2075,0.00502067,16.61777984
+China,Policy,electricity,solar,PV,2080,0.00508064,17.47169632
+China,Policy,electricity,solar,PV,2085,0.00490439,17.43030742
+China,Policy,electricity,solar,PV,2090,0.00437986,16.14483039
+China,Policy,electricity,solar,PV,2095,0.0056652,21.72595809
+China,Policy,electricity,solar,PV,2100,0.00620146,24.84979432
+China,Policy,electricity,solar,CSP_storage,1990,0,NA
+China,Policy,electricity,solar,CSP_storage,2005,0,NA
+China,Policy,electricity,solar,CSP_storage,2010,0,NA
+China,Policy,electricity,solar,CSP_storage,2015,0,NA
+China,Policy,electricity,solar,CSP_storage,2020,0,NA
+China,Policy,electricity,solar,CSP_storage,2025,-5.03E-06,-0.242767624
+China,Policy,electricity,solar,CSP_storage,2030,-2.11E-05,-0.235765827
+China,Policy,electricity,solar,CSP_storage,2035,0.125339887,437.8889312
+China,Policy,electricity,solar,CSP_storage,2040,0.298120957,399.6927013
+China,Policy,electricity,solar,CSP_storage,2045,0.56641965,309.9896701
+China,Policy,electricity,solar,CSP_storage,2050,0.807149653,239.4986899
+China,Policy,electricity,solar,CSP_storage,2055,0.923765144,161.8751914
+China,Policy,electricity,solar,CSP_storage,2060,0.978049622,116.2946136
+China,Policy,electricity,solar,CSP_storage,2065,0.921829027,82.82556956
+China,Policy,electricity,solar,CSP_storage,2070,0.638948334,46.44541122
+China,Policy,electricity,solar,CSP_storage,2075,0.23402436,14.8196807
+China,Policy,electricity,solar,CSP_storage,2080,-0.143495339,-8.469073744
+China,Policy,electricity,solar,CSP_storage,2085,-0.446392338,-25.5346656
+China,Policy,electricity,solar,CSP_storage,2090,-0.66926009,-38.62831103
+China,Policy,electricity,solar,CSP_storage,2095,-0.581917347,-34.82317555
+China,Policy,electricity,solar,CSP_storage,2100,-0.412804793,-26.01168263
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),1990,0,NA
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2005,0,NA
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2010,0,NA
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2015,0,NA
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2020,0,NA
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2025,-5.47E-05,-4.129667405
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2030,-0.000159389,-10.46998654
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2035,0.025530744,945.8051646
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2040,0.023470675,613.1016542
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2045,0.026480797,647.4671709
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2050,0.071877154,1863.043397
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2055,0.13796023,3764.5256
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2060,0.217636736,4983.765556
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2065,0.074323066,978.0843549
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2070,0.046048411,433.2230958
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2075,0.039570424,283.7946627
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2080,0.043032377,233.1431809
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2085,0.053576493,238.8679828
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2090,0.069272144,211.8895157
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2095,0.059543202,111.1868224
+Taiwan,Policy,electricity,biomass,biomass (conv CCS),2100,0.057519553,72.95400442
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),1990,0,NA
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2005,0,NA
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2010,0,NA
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2015,0,NA
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2020,0,NA
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2025,-6.48E-06,-1.527707452
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2030,-3.68E-05,-5.465132859
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2035,0.008049734,647.1331142
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2040,0.013363997,661.2454056
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2045,0.0207908,760.2621695
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2050,0.047781269,1483.063538
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2055,0.08128045,2253.921785
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2060,0.119468591,2614.257131
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2065,0.081846633,1061.187255
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2070,0.062105219,531.8331742
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2075,0.056525983,343.2203022
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2080,0.06086856,270.3611375
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2085,0.073861908,252.4156245
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2090,0.090576362,219.1993494
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2095,0.087008357,138.4212018
+Taiwan,Policy,electricity,biomass,biomass (IGCC CCS),2100,0.08257611,93.45586381
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),1990,0,NA
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2005,0,NA
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2010,0,NA
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2015,0,NA
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2020,0,NA
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2025,-5.98E-05,-0.974534253
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2030,9.89E-06,0.094981738
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2035,0.091825937,552.4174975
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2040,0.134693514,552.9626172
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2045,0.166607709,516.1083627
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2050,0.2541214,671.4072757
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2055,0.309283408,771.6285662
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2060,0.3682763,872.7100409
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2065,0.362062715,718.8458724
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2070,0.370174528,537.2902215
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2075,0.385189237,425.954771
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2080,0.410000521,348.1340572
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2085,0.429954066,298.9319936
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2090,0.462303461,257.439605
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2095,0.401953114,175.7621777
+Taiwan,Policy,electricity,coal,coal (conv pul CCS),2100,0.376380291,136.4148567
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),1990,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2005,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2010,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2015,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2020,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2025,-2.60E-05,-2.220621206
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2030,-2.02E-05,-0.934463554
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2035,0.031159305,799.0054215
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2040,0.053360855,810.6452395
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2045,0.079795375,796.0761038
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2050,0.135538482,1011.795661
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2055,0.179973019,1104.781134
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2060,0.226614275,1149.313274
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2065,0.225893161,835.3909039
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2070,0.234981811,602.9075143
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2075,0.247940561,461.8403672
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2080,0.266027487,367.4928391
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2085,0.281464635,308.3825622
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2090,0.301573835,259.7284756
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2095,0.272936662,182.7980479
+Taiwan,Policy,electricity,coal,coal (IGCC CCS),2100,0.257653189,142.0264042
+Taiwan,Policy,electricity,coal,coal (conv pul),1990,0,0
+Taiwan,Policy,electricity,coal,coal (conv pul),2005,0,0
+Taiwan,Policy,electricity,coal,coal (conv pul),2010,0,0
+Taiwan,Policy,electricity,coal,coal (conv pul),2015,0,0
+Taiwan,Policy,electricity,coal,coal (conv pul),2020,9.99E-07,4.48E-05
+Taiwan,Policy,electricity,coal,coal (conv pul),2025,0.002324543,0.09437431
+Taiwan,Policy,electricity,coal,coal (conv pul),2030,0.009395723,0.36445139
+Taiwan,Policy,electricity,coal,coal (conv pul),2035,-0.338248023,-12.98172231
+Taiwan,Policy,electricity,coal,coal (conv pul),2040,-0.860041214,-33.67983827
+Taiwan,Policy,electricity,coal,coal (conv pul),2045,-1.51873443,-62.53430559
+Taiwan,Policy,electricity,coal,coal (conv pul),2050,-1.937634167,-86.85425547
+Taiwan,Policy,electricity,coal,coal (conv pul),2055,-1.85720044,-94.40932707
+Taiwan,Policy,electricity,coal,coal (conv pul),2060,-1.599773895,-96.25719813
+Taiwan,Policy,electricity,coal,coal (conv pul),2065,-1.248931757,-90.34978877
+Taiwan,Policy,electricity,coal,coal (conv pul),2070,-0.902213095,-83.91278802
+Taiwan,Policy,electricity,coal,coal (conv pul),2075,-0.615788011,-78.01762697
+Taiwan,Policy,electricity,coal,coal (conv pul),2080,-0.311165247,-76.71654005
+Taiwan,Policy,electricity,coal,coal (conv pul),2085,-0.186928366,-77.38811275
+Taiwan,Policy,electricity,coal,coal (conv pul),2090,-0.097357007,-73.76026243
+Taiwan,Policy,electricity,coal,coal (conv pul),2095,-0.044287181,-67.66137033
+Taiwan,Policy,electricity,coal,coal (conv pul),2100,-0.016469005,-51.52950873
+Taiwan,Policy,electricity,coal,coal (IGCC),1990,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC),2005,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC),2010,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC),2015,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC),2020,0,NA
+Taiwan,Policy,electricity,coal,coal (IGCC),2025,-0.000354076,-0.419215517
+Taiwan,Policy,electricity,coal,coal (IGCC),2030,0.001155921,0.772004944
+Taiwan,Policy,electricity,coal,coal (IGCC),2035,-0.002172237,-1.039999531
+Taiwan,Policy,electricity,coal,coal (IGCC),2040,-0.037233387,-14.19855305
+Taiwan,Policy,electricity,coal,coal (IGCC),2045,-0.121537786,-39.26716792
+Taiwan,Policy,electricity,coal,coal (IGCC),2050,-0.257809161,-74.50963337
+Taiwan,Policy,electricity,coal,coal (IGCC),2055,-0.329005952,-89.41913887
+Taiwan,Policy,electricity,coal,coal (IGCC),2060,-0.351798897,-93.57674803
+Taiwan,Policy,electricity,coal,coal (IGCC),2065,-0.340480916,-87.79647065
+Taiwan,Policy,electricity,coal,coal (IGCC),2070,-0.294534741,-81.86074932
+Taiwan,Policy,electricity,coal,coal (IGCC),2075,-0.241715111,-77.18809158
+Taiwan,Policy,electricity,coal,coal (IGCC),2080,-0.195076207,-73.78981575
+Taiwan,Policy,electricity,coal,coal (IGCC),2085,-0.13696752,-73.54737035
+Taiwan,Policy,electricity,coal,coal (IGCC),2090,-0.079534806,-67.31627954
+Taiwan,Policy,electricity,coal,coal (IGCC),2095,-0.040091069,-60.61741928
+Taiwan,Policy,electricity,coal,coal (IGCC),2100,-0.015403889,-43.80997894
+Taiwan,Policy,electricity,geothermal,geothermal,1990,0,0
+Taiwan,Policy,electricity,geothermal,geothermal,2005,0,NA
+Taiwan,Policy,electricity,geothermal,geothermal,2010,0,NA
+Taiwan,Policy,electricity,geothermal,geothermal,2015,0,NA
+Taiwan,Policy,electricity,geothermal,geothermal,2020,-1.00E-08,-0.000283058
+Taiwan,Policy,electricity,geothermal,geothermal,2025,6.98E-07,0.015963593
+Taiwan,Policy,electricity,geothermal,geothermal,2030,-4.36E-07,-0.0099392
+Taiwan,Policy,electricity,geothermal,geothermal,2035,-0.000148434,-3.389193654
+Taiwan,Policy,electricity,geothermal,geothermal,2040,-0.000143704,-3.297527526
+Taiwan,Policy,electricity,geothermal,geothermal,2045,-0.000161105,-3.720768579
+Taiwan,Policy,electricity,geothermal,geothermal,2050,-0.000140727,-3.284249649
+Taiwan,Policy,electricity,geothermal,geothermal,2055,-0.000110393,-2.589871059
+Taiwan,Policy,electricity,geothermal,geothermal,2060,-8.19E-05,-1.93613478
+Taiwan,Policy,electricity,geothermal,geothermal,2065,0.000123128,2.960664625
+Taiwan,Policy,electricity,geothermal,geothermal,2070,1.71E-05,0.410471621
+Taiwan,Policy,electricity,geothermal,geothermal,2075,-1.15E-05,-0.276909365
+Taiwan,Policy,electricity,geothermal,geothermal,2080,-2.04E-05,-0.491747816
+Taiwan,Policy,electricity,geothermal,geothermal,2085,-2.55E-05,-0.611269404
+Taiwan,Policy,electricity,geothermal,geothermal,2090,-1.88E-05,-0.453153593
+Taiwan,Policy,electricity,geothermal,geothermal,2095,2.14E-05,0.516589208
+Taiwan,Policy,electricity,geothermal,geothermal,2100,-3.50E-06,-0.084361058
+Taiwan,Policy,electricity,nuclear,Gen_III,1990,0,NA
+Taiwan,Policy,electricity,nuclear,Gen_III,2005,0,NA
+Taiwan,Policy,electricity,nuclear,Gen_III,2010,0,NA
+Taiwan,Policy,electricity,nuclear,Gen_III,2015,0,NA
+Taiwan,Policy,electricity,nuclear,Gen_III,2020,-1.00E-09,-0.000473469
+Taiwan,Policy,electricity,nuclear,Gen_III,2025,-4.00E-06,-0.951527483
+Taiwan,Policy,electricity,nuclear,Gen_III,2030,-2.18E-06,-0.335896361
+Taiwan,Policy,electricity,nuclear,Gen_III,2035,0.00094652,98.89333746
+Taiwan,Policy,electricity,nuclear,Gen_III,2040,0.002089767,154.3932739
+Taiwan,Policy,electricity,nuclear,Gen_III,2045,0.003906718,208.9562984
+Taiwan,Policy,electricity,nuclear,Gen_III,2050,0.006080881,244.061045
+Taiwan,Policy,electricity,nuclear,Gen_III,2055,0.007632584,241.550616
+Taiwan,Policy,electricity,nuclear,Gen_III,2060,0.008949778,225.8326682
+Taiwan,Policy,electricity,nuclear,Gen_III,2065,0.008042852,149.4121306
+Taiwan,Policy,electricity,nuclear,Gen_III,2070,0.007841971,118.4341951
+Taiwan,Policy,electricity,nuclear,Gen_III,2075,0.00795486,101.9563793
+Taiwan,Policy,electricity,nuclear,Gen_III,2080,0.008262954,93.92305473
+Taiwan,Policy,electricity,nuclear,Gen_III,2085,0.008593795,89.18533058
+Taiwan,Policy,electricity,nuclear,Gen_III,2090,0.008963013,85.18892468
+Taiwan,Policy,electricity,nuclear,Gen_III,2095,0.007674951,66.8640075
+Taiwan,Policy,electricity,nuclear,Gen_III,2100,0.006545049,53.55537961
+Taiwan,Policy,electricity,solar,PV,1990,0,NA
+Taiwan,Policy,electricity,solar,PV,2005,0,0
+Taiwan,Policy,electricity,solar,PV,2010,0,0
+Taiwan,Policy,electricity,solar,PV,2015,0,0
+Taiwan,Policy,electricity,solar,PV,2020,-1.00E-10,-0.000162728
+Taiwan,Policy,electricity,solar,PV,2025,-1.09E-06,-0.914593816
+Taiwan,Policy,electricity,solar,PV,2030,-2.90E-07,-0.140885002
+Taiwan,Policy,electricity,solar,PV,2035,0.00028858,84.4364482
+Taiwan,Policy,electricity,solar,PV,2040,0.000451649,86.75150339
+Taiwan,Policy,electricity,solar,PV,2045,0.000544709,78.60425798
+Taiwan,Policy,electricity,solar,PV,2050,0.000576999,70.72475112
+Taiwan,Policy,electricity,solar,PV,2055,0.000560115,62.02643422
+Taiwan,Policy,electricity,solar,PV,2060,0.000531764,55.77600819
+Taiwan,Policy,electricity,solar,PV,2065,0.00011552,11.76899856
+Taiwan,Policy,electricity,solar,PV,2070,-7.11E-05,-7.760746782
+Taiwan,Policy,electricity,solar,PV,2075,-0.000140573,-17.25834125
+Taiwan,Policy,electricity,solar,PV,2080,-0.00013291,-18.52087093
+Taiwan,Policy,electricity,solar,PV,2085,-8.05E-05,-12.91215389
+Taiwan,Policy,electricity,solar,PV,2090,-8.02E-06,-1.506294517
+Taiwan,Policy,electricity,solar,PV,2095,0.000113043,26.88799217
+Taiwan,Policy,electricity,solar,PV,2100,0.000143299,40.63085064
+Taiwan,Policy,electricity,solar,CSP_storage,1990,0,NA
+Taiwan,Policy,electricity,solar,CSP_storage,2005,0,NA
+Taiwan,Policy,electricity,solar,CSP_storage,2010,0,NA
+Taiwan,Policy,electricity,solar,CSP_storage,2015,0,NA
+Taiwan,Policy,electricity,solar,CSP_storage,2020,0,NA
+Taiwan,Policy,electricity,solar,CSP_storage,2025,-1.03E-05,-1.894029841
+Taiwan,Policy,electricity,solar,CSP_storage,2030,3.05E-07,0.017373411
+Taiwan,Policy,electricity,solar,CSP_storage,2035,0.010248325,226.0857211
+Taiwan,Policy,electricity,solar,CSP_storage,2040,0.032541062,332.077844
+Taiwan,Policy,electricity,solar,CSP_storage,2045,0.087024813,445.4777651
+Taiwan,Policy,electricity,solar,CSP_storage,2050,0.172094045,494.2026282
+Taiwan,Policy,electricity,solar,CSP_storage,2055,0.246663807,449.9873773
+Taiwan,Policy,electricity,solar,CSP_storage,2060,0.318686189,384.0755581
+Taiwan,Policy,electricity,solar,CSP_storage,2065,0.272086811,191.8868196
+Taiwan,Policy,electricity,solar,CSP_storage,2070,0.242871991,123.3318115
+Taiwan,Policy,electricity,solar,CSP_storage,2075,0.196636057,78.44810516
+Taiwan,Policy,electricity,solar,CSP_storage,2080,0.131957463,43.04343327
+Taiwan,Policy,electricity,solar,CSP_storage,2085,0.080348813,22.75984767
+Taiwan,Policy,electricity,solar,CSP_storage,2090,0.034338011,8.583974485
+Taiwan,Policy,electricity,solar,CSP_storage,2095,0.048377089,11.26987589
+Taiwan,Policy,electricity,solar,CSP_storage,2100,0.059759597,13.18460621
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),1990,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2005,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2010,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2015,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2020,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2025,-0.000704035,-3.068000062
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2030,-0.00446763,-11.52212603
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2035,1.936647848,2380.537949
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2040,3.327152814,1854.374183
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2045,4.542031344,1279.789558
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2050,7.87476333,1364.237094
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2055,17.71106773,1783.139339
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2060,25.90041978,1662.728204
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2065,42.09770931,1836.056965
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2070,42.39450893,1325.855518
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2075,37.23774471,889.3195735
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2080,27.5735034,545.7267409
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2085,32.5851273,528.5166064
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2090,37.62980326,503.4687824
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2095,38.28730534,426.2471763
+China,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2100,36.99903456,344.258406
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),1990,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2005,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2010,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2015,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2020,0,NA
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2025,-4.70E-06,-0.114811712
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2030,-0.000379391,-4.358844099
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2035,0.231164102,1273.654924
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2040,0.441507927,1175.43544
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2045,0.693016078,913.9459871
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2050,1.045024751,821.4092564
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2055,1.007767551,460.8205447
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2060,1.065783932,312.6253103
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2065,1.45333993,294.2894698
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2070,1.362228659,199.3090633
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2075,1.211684151,134.5649668
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2080,0.985410207,89.94314851
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2085,0.945265963,71.29551234
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2090,0.850356887,54.44411841
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2095,0.742146336,41.34206929
+China,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2100,0.529363757,25.97304755
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),1990,0,NA
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2005,0,NA
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2010,0,NA
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2015,0,NA
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2020,0,NA
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2025,7.58E-05,0.030426547
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2030,1.68E-05,0.003627022
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2035,11.9108561,1554.054995
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2040,20.66195374,1616.632878
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2045,29.07387905,1329.057361
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2050,35.70262832,1092.452735
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2055,36.55479296,736.1431147
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2060,33.16492091,481.3752768
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2065,31.80460678,353.6308518
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2070,29.58582811,261.8670685
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2075,25.68078678,187.7166015
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2080,21.83659326,139.7328838
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2085,16.32156789,93.67562108
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2090,10.67503512,56.16937333
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2095,5.342988792,26.41304584
+China,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2100,1.36894994,6.455034378
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),1990,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2005,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2010,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2015,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2020,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2025,-5.13E-05,-0.175136191
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2030,-0.000123281,-0.205385108
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2035,2.031490962,1823.749973
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2040,3.753962037,1770.805947
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2045,5.632465485,1357.596493
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2050,7.310031405,1075.004697
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2055,7.696374408,681.8953648
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2060,7.250517154,434.5834162
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2065,7.288121794,319.6142255
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2070,6.843558089,230.193103
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2075,6.151712236,166.2034019
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2080,5.518740586,128.1924412
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2085,4.435936617,90.37586249
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2090,3.26129905,60.04941074
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2095,2.03218235,34.74812036
+China,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2100,0.91236825,14.71451437
+China,Policy_NoDAC,electricity,coal,coal (conv pul),1990,0,0
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2005,0,0
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2010,0,0
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2015,0,0
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2020,-3.99E-05,-4.11E-05
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2025,0.0564914,0.055539154
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2030,0.1073063,0.104047422
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2035,-23.4491118,-23.46035055
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2040,-48.20735582,-52.02886924
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2045,-64.77647814,-79.13675551
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2050,-66.54870855,-97.76962922
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2055,-53.4480153,-99.87118668
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2060,-40.13764041,-99.97850641
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2065,-29.48683329,-99.97950072
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2070,-20.84758594,-99.97041213
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2075,-13.71545754,-99.95863778
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2080,-7.430071728,-99.95998133
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2085,-3.724534231,-99.97136091
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2090,-1.537606321,-99.98486935
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2095,-0.548494721,-99.99145088
+China,Policy_NoDAC,electricity,coal,coal (conv pul),2100,-0.190396836,-99.99380419
+China,Policy_NoDAC,electricity,coal,coal (IGCC),1990,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2005,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2010,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2015,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2020,0,NA
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2025,0.0052643,0.330152701
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2030,0.0097538,0.321574088
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2035,-0.3156388,-7.513251964
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2040,-1.7937641,-34.94280665
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2045,-3.95769022,-67.17859621
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2050,-5.979529856,-96.18531517
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2055,-6.240446405,-99.8085359
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2060,-5.868496633,-99.97265316
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2065,-5.172725786,-99.9769151
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2070,-4.24022516,-99.97035069
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2075,-3.256009299,-99.96187495
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2080,-2.482972363,-99.96030228
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2085,-1.447636813,-99.97114484
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2090,-0.713944803,-99.98012185
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2095,-0.298862673,-99.98807556
+China,Policy_NoDAC,electricity,coal,coal (IGCC),2100,-0.117685901,-99.9914069
+China,Policy_NoDAC,electricity,geothermal,geothermal,1990,0,0
+China,Policy_NoDAC,electricity,geothermal,geothermal,2005,0,0
+China,Policy_NoDAC,electricity,geothermal,geothermal,2010,0,0
+China,Policy_NoDAC,electricity,geothermal,geothermal,2015,0,0
+China,Policy_NoDAC,electricity,geothermal,geothermal,2020,0,0
+China,Policy_NoDAC,electricity,geothermal,geothermal,2025,8.60E-06,0.00536906
+China,Policy_NoDAC,electricity,geothermal,geothermal,2030,6.00E-06,0.003742058
+China,Policy_NoDAC,electricity,geothermal,geothermal,2035,-0.007517007,-4.700373127
+China,Policy_NoDAC,electricity,geothermal,geothermal,2040,-0.004927473,-3.095184012
+China,Policy_NoDAC,electricity,geothermal,geothermal,2045,-0.003992235,-2.528252028
+China,Policy_NoDAC,electricity,geothermal,geothermal,2050,-0.003812487,-2.422671186
+China,Policy_NoDAC,electricity,geothermal,geothermal,2055,-0.000423008,-0.27114765
+China,Policy_NoDAC,electricity,geothermal,geothermal,2060,0.002141246,1.37563678
+China,Policy_NoDAC,electricity,geothermal,geothermal,2065,-0.002220973,-1.426773582
+China,Policy_NoDAC,electricity,geothermal,geothermal,2070,0.000965646,0.621067814
+China,Policy_NoDAC,electricity,geothermal,geothermal,2075,0.000660525,0.425062305
+China,Policy_NoDAC,electricity,geothermal,geothermal,2080,-0.000611376,-0.391709937
+China,Policy_NoDAC,electricity,geothermal,geothermal,2085,0.002896218,1.859816947
+China,Policy_NoDAC,electricity,geothermal,geothermal,2090,0.003633996,2.328440235
+China,Policy_NoDAC,electricity,geothermal,geothermal,2095,-0.003422076,-2.18710223
+China,Policy_NoDAC,electricity,geothermal,geothermal,2100,-0.000898471,-0.574497611
+China,Policy_NoDAC,electricity,nuclear,Gen_III,1990,0,NA
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2005,0,NA
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2010,0,NA
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2015,0,NA
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2020,-2.00E-05,-0.001048746
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2025,0.001956,0.046951309
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2030,0.004678,0.072247729
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2035,10.271419,115.7287827
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2040,16.485957,140.944598
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2045,22.775324,147.5680516
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2050,29.274041,154.2629127
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2055,29.939852,128.4453722
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2060,28.117781,102.7998085
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2065,29.069102,92.99462665
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2070,27.10627,76.8092542
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2075,25.103971,64.00355987
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2080,24.094237,59.5779576
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2085,21.69153,52.50135456
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2090,19.2764214,46.23105221
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2095,9.9657672,23.96691133
+China,Policy_NoDAC,electricity,nuclear,Gen_III,2100,3.7782299,9.225144083
+China,Policy_NoDAC,electricity,solar,PV,1990,0,0
+China,Policy_NoDAC,electricity,solar,PV,2005,0,0
+China,Policy_NoDAC,electricity,solar,PV,2010,0,0
+China,Policy_NoDAC,electricity,solar,PV,2015,0,0
+China,Policy_NoDAC,electricity,solar,PV,2020,1.00E-09,5.34E-05
+China,Policy_NoDAC,electricity,solar,PV,2025,-6.78E-06,-0.137979126
+China,Policy_NoDAC,electricity,solar,PV,2030,-1.02E-05,-0.094943492
+China,Policy_NoDAC,electricity,solar,PV,2035,0.017411151,95.32030158
+China,Policy_NoDAC,electricity,solar,PV,2040,0.021434611,82.64079591
+China,Policy_NoDAC,electricity,solar,PV,2045,0.022566311,68.9893695
+China,Policy_NoDAC,electricity,solar,PV,2050,0.02449229,66.28721304
+China,Policy_NoDAC,electricity,solar,PV,2055,0.02367007,60.38256977
+China,Policy_NoDAC,electricity,solar,PV,2060,0.02118679,55.33012462
+China,Policy_NoDAC,electricity,solar,PV,2065,0.00947807,26.68667073
+China,Policy_NoDAC,electricity,solar,PV,2070,0.00595877,18.1814881
+China,Policy_NoDAC,electricity,solar,PV,2075,0.00569508,18.84999126
+China,Policy_NoDAC,electricity,solar,PV,2080,0.00614515,21.13241534
+China,Policy_NoDAC,electricity,solar,PV,2085,0.00498129,17.70361167
+China,Policy_NoDAC,electricity,solar,PV,2090,0.004419672,16.29158348
+China,Policy_NoDAC,electricity,solar,PV,2095,0.004623392,17.73063984
+China,Policy_NoDAC,electricity,solar,PV,2100,0.005397372,21.62774315
+China,Policy_NoDAC,electricity,solar,CSP_storage,1990,0,NA
+China,Policy_NoDAC,electricity,solar,CSP_storage,2005,0,NA
+China,Policy_NoDAC,electricity,solar,CSP_storage,2010,0,NA
+China,Policy_NoDAC,electricity,solar,CSP_storage,2015,0,NA
+China,Policy_NoDAC,electricity,solar,CSP_storage,2020,0,NA
+China,Policy_NoDAC,electricity,solar,CSP_storage,2025,-5.04E-06,-0.243250245
+China,Policy_NoDAC,electricity,solar,CSP_storage,2030,-2.12E-05,-0.237108568
+China,Policy_NoDAC,electricity,solar,CSP_storage,2035,0.125483772,438.3916078
+China,Policy_NoDAC,electricity,solar,CSP_storage,2040,0.301257937,403.8984706
+China,Policy_NoDAC,electricity,solar,CSP_storage,2045,0.597059528,326.7582368
+China,Policy_NoDAC,electricity,solar,CSP_storage,2050,0.989668662,293.656012
+China,Policy_NoDAC,electricity,solar,CSP_storage,2055,1.101413029,193.0051658
+China,Policy_NoDAC,electricity,solar,CSP_storage,2060,0.993922759,118.1820029
+China,Policy_NoDAC,electricity,solar,CSP_storage,2065,0.978607192,87.9270403
+China,Policy_NoDAC,electricity,solar,CSP_storage,2070,0.681125258,49.51126883
+China,Policy_NoDAC,electricity,solar,CSP_storage,2075,0.265832366,16.8339346
+China,Policy_NoDAC,electricity,solar,CSP_storage,2080,-0.175406776,-10.352482
+China,Policy_NoDAC,electricity,solar,CSP_storage,2085,-0.49613515,-28.38006855
+China,Policy_NoDAC,electricity,solar,CSP_storage,2090,-0.617692549,-35.651939
+China,Policy_NoDAC,electricity,solar,CSP_storage,2095,-0.579911333,-34.70313139
+China,Policy_NoDAC,electricity,solar,CSP_storage,2100,-0.444918785,-28.03525161
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),1990,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2005,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2010,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2015,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2020,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2025,-5.47E-05,-4.125796789
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2030,-0.000159268,-10.46208448
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2035,0.025478835,943.8821557
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2040,0.021519434,562.1312736
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2045,0.020160003,492.9209695
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2050,0.0809777,2098.927967
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2055,0.286792235,7825.709706
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2060,0.436583286,9997.525148
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2065,0.517328347,6807.991007
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2070,0.430594888,4051.033361
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2075,0.136535328,979.2161179
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2080,0.073904651,400.4046848
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2085,0.09390212,418.6576709
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2090,0.138315785,423.0800864
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2095,0.134642297,251.4216356
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (conv CCS),2100,0.100752811,127.7882156
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),1990,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2005,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2010,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2015,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2020,0,NA
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2025,-6.46E-06,-1.523340097
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2030,-3.67E-05,-5.45581557
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2035,0.008063706,648.2563852
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2040,0.012995004,642.9877724
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2045,0.01817413,664.5777659
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2050,0.05929081,1840.30357
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2055,0.13126692,3640.055773
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2060,0.165319611,3617.586599
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2065,0.191740836,2486.026888
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2070,0.198898918,1703.255307
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2075,0.12542579,761.5732708
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2080,0.085831974,381.2416518
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2085,0.109636323,374.6710833
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2090,0.145831055,352.9184842
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2095,0.139721254,222.2819099
+Taiwan,Policy_NoDAC,electricity,biomass,biomass (IGCC CCS),2100,0.114463838,129.5449349
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),1990,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2005,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2010,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2015,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2020,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2025,-5.93E-05,-0.966517372
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2030,1.24E-05,0.119026556
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2035,0.092535038,556.6833918
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2040,0.137231818,563.3832172
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2045,0.178690215,553.536896
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2050,0.341203879,901.4855371
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2055,0.350359054,874.107848
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2060,0.238516702,565.2167155
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2065,0.223157888,443.0617134
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2070,0.213771104,310.2783018
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2075,0.226080848,250.0075459
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2080,0.232840567,197.7064104
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2085,0.212474017,147.7257375
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2090,0.160151101,89.18219208
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2095,0.11885968,51.97381368
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul CCS),2100,0.094587879,34.28232635
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),1990,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2005,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2010,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2015,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2020,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2025,-2.59E-05,-2.213618742
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2030,-1.98E-05,-0.913539496
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2035,0.031361616,804.1931862
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2040,0.054313457,825.1169329
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2045,0.085722121,855.2041038
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2050,0.188486123,1407.050151
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2055,0.229303125,1407.59858
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2060,0.187696089,951.933002
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2065,0.183823248,679.8092893
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2070,0.184320641,472.9229861
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2075,0.197695786,368.249125
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2080,0.20922314,289.0227876
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2085,0.201821729,221.1229904
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2090,0.171147048,147.3992662
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2095,0.145096434,97.17765507
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC CCS),2100,0.128529093,70.84921005
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),1990,0,0
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2005,0,0
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2010,0,0
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2015,0,0
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2020,-1.00E-09,-4.49E-08
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2025,0.002325543,0.094414885
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2030,0.009403124,0.364738464
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2035,-0.338803396,-13.00303715
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2040,-0.868154096,-33.99754461
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2045,-1.584231328,-65.23115827
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2050,-2.143762065,-96.09391764
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2055,-1.96270519,-99.77257827
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2060,-1.661296323,-99.95895662
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2065,-1.38179406,-99.96126743
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2070,-1.074659517,-99.95163754
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2075,-0.788766854,-99.93328392
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2080,-0.405357136,-99.93917139
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2085,-0.24144039,-99.95602338
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2090,-0.131952564,-99.97077788
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2095,-0.065435737,-99.97185483
+Taiwan,Policy_NoDAC,electricity,coal,coal (conv pul),2100,-0.031951857,-99.97346396
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),1990,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2005,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2010,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2015,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2020,0,NA
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2025,-0.000353676,-0.41874181
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2030,0.001157352,0.772960064
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2035,-0.002298755,-1.100572511
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2040,-0.037875802,-14.4435312
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2045,-0.130609217,-42.19802128
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2050,-0.316418356,-91.44832418
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2055,-0.366330464,-99.56341025
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2060,-0.37571437,-99.93814443
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2065,-0.387618653,-99.95141589
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2070,-0.359610129,-99.94730864
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2075,-0.312945044,-99.93430118
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2080,-0.264193276,-99.93414097
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2085,-0.186141713,-99.95240904
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2090,-0.1181094,-99.96485517
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2095,-0.066115509,-99.96619244
+Taiwan,Policy_NoDAC,electricity,coal,coal (IGCC),2100,-0.035149476,-99.96812012
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,1990,0,0
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2005,0,NA
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2010,0,NA
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2015,0,NA
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2020,-1.00E-08,-0.000283058
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2025,6.98E-07,0.015965881
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2030,-4.31E-07,-0.00982074
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2035,-0.000148513,-3.390991066
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2040,-0.000145081,-3.329114217
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2045,-0.00016717,-3.860825034
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2050,-0.000161024,-3.75794905
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2055,-0.000130527,-3.062237205
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2060,-1.79E-05,-0.423014045
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2065,4.30E-05,1.03393654
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2070,1.87E-05,0.44890963
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2075,-1.66E-05,-0.397687825
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2080,-2.31E-05,-0.556568529
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2085,-1.43E-05,-0.342581189
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2090,5.30E-05,1.276739242
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2095,2.40E-05,0.579199065
+Taiwan,Policy_NoDAC,electricity,geothermal,geothermal,2100,1.38E-06,0.033340011
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,1990,0,NA
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2005,0,NA
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2010,0,NA
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2015,0,NA
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2020,-1.00E-09,-0.000473469
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2025,-4.00E-06,-0.951052076
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2030,-2.17E-06,-0.335279754
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2035,0.000947075,98.9513244
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2040,0.002105372,155.5461809
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2045,0.004067712,217.5672886
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2050,0.007349135,294.9634383
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2055,0.009679478,306.3292686
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2060,0.010023342,252.9222589
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2065,0.009645677,179.1878243
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2070,0.009462328,142.9058078
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2075,0.00967742,124.034201
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2080,0.010056496,114.3098248
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2085,0.010185648,105.7053821
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2090,0.00969474,92.1436213
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2095,0.008363593,72.86344174
+Taiwan,Policy_NoDAC,electricity,nuclear,Gen_III,2100,0.007119125,58.25280176
+Taiwan,Policy_NoDAC,electricity,solar,PV,1990,0,NA
+Taiwan,Policy_NoDAC,electricity,solar,PV,2005,0,0
+Taiwan,Policy_NoDAC,electricity,solar,PV,2010,0,0
+Taiwan,Policy_NoDAC,electricity,solar,PV,2015,0,0
+Taiwan,Policy_NoDAC,electricity,solar,PV,2020,-1.00E-10,-0.000162728
+Taiwan,Policy_NoDAC,electricity,solar,PV,2025,-1.09E-06,-0.914342646
+Taiwan,Policy_NoDAC,electricity,solar,PV,2030,-2.89E-07,-0.140156789
+Taiwan,Policy_NoDAC,electricity,solar,PV,2035,0.000288736,84.48223902
+Taiwan,Policy_NoDAC,electricity,solar,PV,2040,0.000454241,87.24946391
+Taiwan,Policy_NoDAC,electricity,solar,PV,2045,0.000557507,80.45114681
+Taiwan,Policy_NoDAC,electricity,solar,PV,2050,0.000619925,75.98640072
+Taiwan,Policy_NoDAC,electricity,solar,PV,2055,0.000584734,64.75273264
+Taiwan,Policy_NoDAC,electricity,solar,PV,2060,0.000482484,50.60713746
+Taiwan,Policy_NoDAC,electricity,solar,PV,2065,7.89E-05,8.036189294
+Taiwan,Policy_NoDAC,electricity,solar,PV,2070,-0.000135313,-14.77674301
+Taiwan,Policy_NoDAC,electricity,solar,PV,2075,-0.000237788,-29.19363086
+Taiwan,Policy_NoDAC,electricity,solar,PV,2080,-0.000271066,-37.77266678
+Taiwan,Policy_NoDAC,electricity,solar,PV,2085,-0.000211048,-33.85610598
+Taiwan,Policy_NoDAC,electricity,solar,PV,2090,-0.000117184,-22.00073145
+Taiwan,Policy_NoDAC,electricity,solar,PV,2095,-5.95E-06,-1.41467551
+Taiwan,Policy_NoDAC,electricity,solar,PV,2100,4.74E-05,13.44256373
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,1990,0,NA
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2005,0,NA
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2010,0,NA
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2015,0,NA
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2020,0,NA
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2025,-1.03E-05,-1.893478446
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2030,3.18E-07,0.018113921
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2035,0.010254438,226.2205821
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2040,0.032845083,335.1803439
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2045,0.091858153,470.2195069
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2050,0.222722586,639.5926562
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2055,0.34090329,621.9079292
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2060,0.370647849,446.698929
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2065,0.35371475,249.4542027
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2070,0.328608238,166.8691771
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2075,0.287905947,114.8602977
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2080,0.184535436,60.19393328
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2085,0.076626404,21.70542705
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2090,0.014018864,3.50450027
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2095,-0.004793326,-1.11664818
+Taiwan,Policy_NoDAC,electricity,solar,CSP_storage,2100,-0.004880425,-1.076755601
+China,NoDAC,electricity,biomass,biomass (conv CCS),1990,0,NA
+China,NoDAC,electricity,biomass,biomass (conv CCS),2005,0,NA
+China,NoDAC,electricity,biomass,biomass (conv CCS),2010,0,NA
+China,NoDAC,electricity,biomass,biomass (conv CCS),2015,0,NA
+China,NoDAC,electricity,biomass,biomass (conv CCS),2020,0,NA
+China,NoDAC,electricity,biomass,biomass (conv CCS),2025,-5.15E-07,-0.002314314
+China,NoDAC,electricity,biomass,biomass (conv CCS),2030,-8.81E-06,-0.025685449
+China,NoDAC,electricity,biomass,biomass (conv CCS),2035,-0.017683905,-0.868695492
+China,NoDAC,electricity,biomass,biomass (conv CCS),2040,-0.226094246,-6.057173848
+China,NoDAC,electricity,biomass,biomass (conv CCS),2045,-1.211933974,-19.83892275
+China,NoDAC,electricity,biomass,biomass (conv CCS),2050,-0.639984329,-7.039001509
+China,NoDAC,electricity,biomass,biomass (conv CCS),2055,6.868458808,58.03091837
+China,NoDAC,electricity,biomass,biomass (conv CCS),2060,13.22094033,92.86203518
+China,NoDAC,electricity,biomass,biomass (conv CCS),2065,29.29535786,194.0708911
+China,NoDAC,electricity,biomass,biomass (conv CCS),2070,32.6232589,251.5524314
+China,NoDAC,electricity,biomass,biomass (conv CCS),2075,30.30362977,272.4820068
+China,NoDAC,electricity,biomass,biomass (conv CCS),2080,21.85401494,202.8759105
+China,NoDAC,electricity,biomass,biomass (conv CCS),2085,26.82755192,225.0073173
+China,NoDAC,electricity,biomass,biomass (conv CCS),2090,31.8807073,241.096682
+China,NoDAC,electricity,biomass,biomass (conv CCS),2095,32.05518129,210.6877753
+China,NoDAC,electricity,biomass,biomass (conv CCS),2100,31.95247517,202.3074326
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),1990,0,NA
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2005,0,NA
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2010,0,NA
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2015,0,NA
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2020,0,NA
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2025,-9.00E-09,-0.000220058
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2030,-9.37E-07,-0.011249809
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2035,-0.000380969,-0.152573901
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2040,-0.00583083,-1.202480973
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2045,-0.027258876,-3.42404417
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2050,0.090765191,8.392660328
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2055,-0.066264799,-5.125989296
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2060,-0.063113728,-4.294000612
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2065,0.221454744,12.83250879
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2070,0.25830862,14.45167625
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2075,0.298132809,16.4351341
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2080,0.206488918,11.01559994
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2085,0.273629951,13.6987705
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2090,0.288566147,13.58802338
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2095,0.180398967,7.654132392
+China,NoDAC,electricity,biomass,biomass (IGCC CCS),2100,0.126167907,5.168013516
+China,NoDAC,electricity,coal,coal (conv pul CCS),1990,0,NA
+China,NoDAC,electricity,coal,coal (conv pul CCS),2005,0,NA
+China,NoDAC,electricity,coal,coal (conv pul CCS),2010,0,NA
+China,NoDAC,electricity,coal,coal (conv pul CCS),2015,0,NA
+China,NoDAC,electricity,coal,coal (conv pul CCS),2020,0,NA
+China,NoDAC,electricity,coal,coal (conv pul CCS),2025,0,0
+China,NoDAC,electricity,coal,coal (conv pul CCS),2030,-3.08E-06,-0.000664746
+China,NoDAC,electricity,coal,coal (conv pul CCS),2035,0.019138219,0.151192799
+China,NoDAC,electricity,coal,coal (conv pul CCS),2040,0.159275731,0.731267889
+China,NoDAC,electricity,coal,coal (conv pul CCS),2045,0.81910596,2.690680951
+China,NoDAC,electricity,coal,coal (conv pul CCS),2050,2.721750023,7.50848413
+China,NoDAC,electricity,coal,coal (conv pul CCS),2055,1.560310036,3.904660113
+China,NoDAC,electricity,coal,coal (conv pul CCS),2060,-2.728877907,-6.378354202
+China,NoDAC,electricity,coal,coal (conv pul CCS),2065,-5.008697148,-10.9343405
+China,NoDAC,electricity,coal,coal (conv pul CCS),2070,-6.115559368,-13.01198885
+China,NoDAC,electricity,coal,coal (conv pul CCS),2075,-8.450987273,-17.67530827
+China,NoDAC,electricity,coal,coal (conv pul CCS),2080,-10.80514926,-22.38521848
+China,NoDAC,electricity,coal,coal (conv pul CCS),2085,-14.35435911,-29.84310055
+China,NoDAC,electricity,coal,coal (conv pul CCS),2090,-18.28062638,-38.11581154
+China,NoDAC,electricity,coal,coal (conv pul CCS),2095,-13.51202732,-34.57210322
+China,NoDAC,electricity,coal,coal (conv pul CCS),2100,-9.44844176,-29.50345186
+China,NoDAC,electricity,coal,coal (IGCC CCS),1990,0,NA
+China,NoDAC,electricity,coal,coal (IGCC CCS),2005,0,NA
+China,NoDAC,electricity,coal,coal (IGCC CCS),2010,0,NA
+China,NoDAC,electricity,coal,coal (IGCC CCS),2015,0,NA
+China,NoDAC,electricity,coal,coal (IGCC CCS),2020,0,NA
+China,NoDAC,electricity,coal,coal (IGCC CCS),2025,0,0
+China,NoDAC,electricity,coal,coal (IGCC CCS),2030,-6.75E-07,-0.001126846
+China,NoDAC,electricity,coal,coal (IGCC CCS),2035,0.003152535,0.147333357
+China,NoDAC,electricity,coal,coal (IGCC CCS),2040,0.030394946,0.772315888
+China,NoDAC,electricity,coal,coal (IGCC CCS),2045,0.178627163,3.043714115
+China,NoDAC,electricity,coal,coal (IGCC CCS),2050,0.689423356,9.443369047
+China,NoDAC,electricity,coal,coal (IGCC CCS),2055,0.517179462,6.22517612
+China,NoDAC,electricity,coal,coal (IGCC CCS),2060,-0.216094596,-2.365568834
+China,NoDAC,electricity,coal,coal (IGCC CCS),2065,-0.493617725,-4.905748575
+China,NoDAC,electricity,coal,coal (IGCC CCS),2070,-0.681761722,-6.494030206
+China,NoDAC,electricity,coal,coal (IGCC CCS),2075,-0.981151133,-9.056072887
+China,NoDAC,electricity,coal,coal (IGCC CCS),2080,-1.238538636,-11.19600871
+China,NoDAC,electricity,coal,coal (IGCC CCS),2085,-1.829782817,-16.37530289
+China,NoDAC,electricity,coal,coal (IGCC CCS),2090,-2.57845269,-22.8773273
+China,NoDAC,electricity,coal,coal (IGCC CCS),2095,-2.12863368,-21.2669007
+China,NoDAC,electricity,coal,coal (IGCC CCS),2100,-1.64143517,-18.75011334
+China,NoDAC,electricity,coal,coal (conv pul),1990,0,0
+China,NoDAC,electricity,coal,coal (conv pul),2005,0,0
+China,NoDAC,electricity,coal,coal (conv pul),2010,0,0
+China,NoDAC,electricity,coal,coal (conv pul),2015,0,0
+China,NoDAC,electricity,coal,coal (conv pul),2020,1.01E-05,1.04E-05
+China,NoDAC,electricity,coal,coal (conv pul),2025,-1.00E-05,-9.83E-06
+China,NoDAC,electricity,coal,coal (conv pul),2030,-7.54E-05,-7.30E-05
+China,NoDAC,electricity,coal,coal (conv pul),2035,-0.0359235,-0.046934953
+China,NoDAC,electricity,coal,coal (conv pul),2040,-0.42177779,-0.940011359
+China,NoDAC,electricity,coal,coal (conv pul),2045,-1.93354235,-10.17069834
+China,NoDAC,electricity,coal,coal (conv pul),2050,-4.258458474,-73.71909529
+China,NoDAC,electricity,coal,coal (conv pul),2055,-2.070644834,-96.77801706
+China,NoDAC,electricity,coal,coal (conv pul),2060,-1.12861085,-99.24124416
+China,NoDAC,electricity,coal,coal (conv pul),2065,-1.845478326,-99.67346754
+China,NoDAC,electricity,coal,coal (conv pul),2070,-1.936873534,-99.68244764
+China,NoDAC,electricity,coal,coal (conv pul),2075,-1.678723073,-99.66306277
+China,NoDAC,electricity,coal,coal (conv pul),2080,-0.934738102,-99.68278064
+China,NoDAC,electricity,coal,coal (conv pul),2085,-0.406428016,-99.7381616
+China,NoDAC,electricity,coal,coal (conv pul),2090,-0.117346064,-99.80210287
+China,NoDAC,electricity,coal,coal (conv pul),2095,-0.041368836,-99.88676887
+China,NoDAC,electricity,coal,coal (conv pul),2100,-0.019818474,-99.9405083
+China,NoDAC,electricity,coal,coal (IGCC),1990,0,NA
+China,NoDAC,electricity,coal,coal (IGCC),2005,0,NA
+China,NoDAC,electricity,coal,coal (IGCC),2010,0,NA
+China,NoDAC,electricity,coal,coal (IGCC),2015,0,NA
+China,NoDAC,electricity,coal,coal (IGCC),2020,0,NA
+China,NoDAC,electricity,coal,coal (IGCC),2025,0,0
+China,NoDAC,electricity,coal,coal (IGCC),2030,-2.22E-05,-0.000729563
+China,NoDAC,electricity,coal,coal (IGCC),2035,-0.0011709,-0.030126384
+China,NoDAC,electricity,coal,coal (IGCC),2040,-0.01738497,-0.517864545
+China,NoDAC,electricity,coal,coal (IGCC),2045,-0.16401458,-7.819076886
+China,NoDAC,electricity,coal,coal (IGCC),2050,-0.600721941,-71.69644176
+China,NoDAC,electricity,coal,coal (IGCC),2055,-0.345062912,-96.64706068
+China,NoDAC,electricity,coal,coal (IGCC),2060,-0.205408619,-99.22455107
+China,NoDAC,electricity,coal,coal (IGCC),2065,-0.352530872,-99.6623385
+China,NoDAC,electricity,coal,coal (IGCC),2070,-0.382364812,-99.67218532
+China,NoDAC,electricity,coal,coal (IGCC),2075,-0.357595701,-99.65393013
+China,NoDAC,electricity,coal,coal (IGCC),2080,-0.303143656,-99.67577166
+China,NoDAC,electricity,coal,coal (IGCC),2085,-0.15857491,-99.7371965
+China,NoDAC,electricity,coal,coal (IGCC),2090,-0.071926038,-99.80303699
+China,NoDAC,electricity,coal,coal (IGCC),2095,-0.030662939,-99.88389705
+China,NoDAC,electricity,coal,coal (IGCC),2100,-0.016060776,-99.93706801
+China,NoDAC,electricity,geothermal,geothermal,1990,0,0
+China,NoDAC,electricity,geothermal,geothermal,2005,0,0
+China,NoDAC,electricity,geothermal,geothermal,2010,0,0
+China,NoDAC,electricity,geothermal,geothermal,2015,0,0
+China,NoDAC,electricity,geothermal,geothermal,2020,0,0
+China,NoDAC,electricity,geothermal,geothermal,2025,9.00E-08,5.62E-05
+China,NoDAC,electricity,geothermal,geothermal,2030,2.01E-07,0.000125354
+China,NoDAC,electricity,geothermal,geothermal,2035,-3.42E-06,-0.00224459
+China,NoDAC,electricity,geothermal,geothermal,2040,-6.59E-05,-0.042709684
+China,NoDAC,electricity,geothermal,geothermal,2045,-0.000340108,-0.220487381
+China,NoDAC,electricity,geothermal,geothermal,2050,-0.001486235,-0.958608762
+China,NoDAC,electricity,geothermal,geothermal,2055,-2.96E-05,-0.019017679
+China,NoDAC,electricity,geothermal,geothermal,2060,0.002084777,1.338872728
+China,NoDAC,electricity,geothermal,geothermal,2065,-0.000646262,-0.419407445
+China,NoDAC,electricity,geothermal,geothermal,2070,0.00028355,0.181572323
+China,NoDAC,electricity,geothermal,geothermal,2075,-0.000332437,-0.21257217
+China,NoDAC,electricity,geothermal,geothermal,2080,-0.001898884,-1.206665228
+China,NoDAC,electricity,geothermal,geothermal,2085,0.000548155,0.346771058
+China,NoDAC,electricity,geothermal,geothermal,2090,0.001360623,0.859286513
+China,NoDAC,electricity,geothermal,geothermal,2095,-0.000122723,-0.080123793
+China,NoDAC,electricity,geothermal,geothermal,2100,0.000501912,0.323830323
+China,NoDAC,electricity,nuclear,Gen_III,1990,0,NA
+China,NoDAC,electricity,nuclear,Gen_III,2005,0,NA
+China,NoDAC,electricity,nuclear,Gen_III,2010,0,NA
+China,NoDAC,electricity,nuclear,Gen_III,2015,0,NA
+China,NoDAC,electricity,nuclear,Gen_III,2020,0,0
+China,NoDAC,electricity,nuclear,Gen_III,2025,-1.00E-06,-2.40E-05
+China,NoDAC,electricity,nuclear,Gen_III,2030,-4.20E-05,-0.000648182
+China,NoDAC,electricity,nuclear,Gen_III,2035,0.009528,0.049787551
+China,NoDAC,electricity,nuclear,Gen_III,2040,0.114297,0.40720847
+China,NoDAC,electricity,nuclear,Gen_III,2045,0.742568,1.981950131
+China,NoDAC,electricity,nuclear,Gen_III,2050,3.450689,7.702418425
+China,NoDAC,electricity,nuclear,Gen_III,2055,3.415153,6.853043851
+China,NoDAC,electricity,nuclear,Gen_III,2060,1.551324,2.877168078
+China,NoDAC,electricity,nuclear,Gen_III,2065,1.775663,3.032607883
+China,NoDAC,electricity,nuclear,Gen_III,2070,1.454292,2.386340612
+China,NoDAC,electricity,nuclear,Gen_III,2075,1.466845,2.333514726
+China,NoDAC,electricity,nuclear,Gen_III,2080,2.171226,3.48150728
+China,NoDAC,electricity,nuclear,Gen_III,2085,1.839108,3.006623207
+China,NoDAC,electricity,nuclear,Gen_III,2090,1.1093114,1.853085367
+China,NoDAC,electricity,nuclear,Gen_III,2095,0.1803002,0.351005148
+China,NoDAC,electricity,nuclear,Gen_III,2100,-0.5070961,-1.120874626
+China,NoDAC,electricity,solar,PV,1990,0,0
+China,NoDAC,electricity,solar,PV,2005,0,0
+China,NoDAC,electricity,solar,PV,2010,0,0
+China,NoDAC,electricity,solar,PV,2015,0,0
+China,NoDAC,electricity,solar,PV,2020,1.00E-09,5.34E-05
+China,NoDAC,electricity,solar,PV,2025,-9.00E-09,-0.000183438
+China,NoDAC,electricity,solar,PV,2030,-7.90E-08,-0.000732521
+China,NoDAC,electricity,solar,PV,2035,1.24E-05,0.034827181
+China,NoDAC,electricity,solar,PV,2040,0.000109021,0.230670412
+China,NoDAC,electricity,solar,PV,2045,0.000542801,0.991718979
+China,NoDAC,electricity,solar,PV,2050,0.00241469,4.090868585
+China,NoDAC,electricity,solar,PV,2055,0.00256694,4.256715636
+China,NoDAC,electricity,solar,PV,2060,0.00067836,1.153672881
+China,NoDAC,electricity,solar,PV,2065,0.00183022,4.240156779
+China,NoDAC,electricity,solar,PV,2070,0.00096976,2.568027193
+China,NoDAC,electricity,solar,PV,2075,0.00067441,1.914126149
+China,NoDAC,electricity,solar,PV,2080,0.00106451,3.116256195
+China,NoDAC,electricity,solar,PV,2085,7.69E-05,0.232737407
+China,NoDAC,electricity,solar,PV,2090,3.98E-05,0.126353527
+China,NoDAC,electricity,solar,PV,2095,-0.001041808,-3.282223704
+China,NoDAC,electricity,solar,PV,2100,-0.000804088,-2.580742068
+China,NoDAC,electricity,solar,CSP_storage,1990,0,NA
+China,NoDAC,electricity,solar,CSP_storage,2005,0,NA
+China,NoDAC,electricity,solar,CSP_storage,2010,0,NA
+China,NoDAC,electricity,solar,CSP_storage,2015,0,NA
+China,NoDAC,electricity,solar,CSP_storage,2020,0,NA
+China,NoDAC,electricity,solar,CSP_storage,2025,-1.00E-08,-0.000483796
+China,NoDAC,electricity,solar,CSP_storage,2030,-1.20E-07,-0.001345915
+China,NoDAC,electricity,solar,CSP_storage,2035,0.000143884,0.093453606
+China,NoDAC,electricity,solar,CSP_storage,2040,0.00313698,0.84167114
+China,NoDAC,electricity,solar,CSP_storage,2045,0.030639878,4.089997371
+China,NoDAC,electricity,solar,CSP_storage,2050,0.18251901,15.95214467
+China,NoDAC,electricity,solar,CSP_storage,2055,0.177647885,11.8873324
+China,NoDAC,electricity,solar,CSP_storage,2060,0.015873137,0.872601152
+China,NoDAC,electricity,solar,CSP_storage,2065,0.056778164,2.790348609
+China,NoDAC,electricity,solar,CSP_storage,2070,0.042176925,2.093515651
+China,NoDAC,electricity,solar,CSP_storage,2075,0.031808005,1.754275824
+China,NoDAC,electricity,solar,CSP_storage,2080,-0.031911436,-2.057674201
+China,NoDAC,electricity,solar,CSP_storage,2085,-0.049742812,-3.821110829
+China,NoDAC,electricity,solar,CSP_storage,2090,0.051567541,4.849747635
+China,NoDAC,electricity,solar,CSP_storage,2095,0.002006014,0.184182288
+China,NoDAC,electricity,solar,CSP_storage,2100,-0.032113992,-2.734984464
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),1990,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2005,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2010,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2015,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2020,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2025,5.13E-08,0.004037345
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2030,1.20E-07,0.008826151
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2035,-5.19E-05,-0.183878313
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2040,-0.001951241,-7.147701909
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2045,-0.006320794,-20.67598517
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2050,0.009100546,12.01626878
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2055,0.148832005,105.0888136
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2060,0.21894655,98.62295058
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2065,0.443005281,540.7653516
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2070,0.384546477,678.4796634
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2075,0.096964903,181.1962288
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2080,0.030872274,50.20709215
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2085,0.040325626,53.05596787
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2090,0.069043641,67.71326386
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2095,0.075099095,66.40320247
+Taiwan,NoDAC,electricity,biomass,biomass (conv CCS),2100,0.043233258,31.70450511
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),1990,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2005,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2010,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2015,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2020,0,NA
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2025,1.85E-08,0.004435111
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2030,6.27E-08,0.009855929
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2035,1.40E-05,0.150344171
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2040,-0.000368993,-2.398389929
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2045,-0.00261667,-11.12270271
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2050,0.011509542,22.56637364
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2055,0.04998647,58.8861532
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2060,0.045851021,36.96515916
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2065,0.109894202,122.7054144
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2070,0.1367937,185.4005425
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2075,0.068899807,94.38939653
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2080,0.024963415,29.93848521
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2085,0.035774415,34.69070332
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2090,0.055254693,41.89204492
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2095,0.052712896,35.17334343
+Taiwan,NoDAC,electricity,biomass,biomass (IGCC CCS),2100,0.031887728,18.65493782
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),1990,0,NA
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2005,0,NA
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2010,0,NA
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2015,0,NA
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2020,0,NA
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2025,4.92E-07,0.008095777
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2030,2.50E-06,0.024022002
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2035,0.000709101,0.653859587
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2040,0.002538304,1.595895344
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2045,0.012082506,6.074991937
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2050,0.087082479,29.82578317
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2055,0.041075646,11.75721927
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2060,-0.129759598,-31.61202336
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2065,-0.138904827,-33.67961765
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2070,-0.156403424,-35.62143464
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2075,-0.159108389,-33.45291929
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2080,-0.177159954,-33.56755516
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2085,-0.217480049,-37.90276503
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2090,-0.302152361,-47.07296297
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2095,-0.283093434,-44.88953671
+Taiwan,NoDAC,electricity,coal,coal (conv pul CCS),2100,-0.281792412,-43.20055507
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),1990,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2005,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2010,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2015,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2020,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2025,8.19E-08,0.007161494
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2030,4.53E-07,0.02112143
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2035,0.00020231,0.577055996
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2040,0.000952602,1.589169174
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2045,0.005926746,6.598546685
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2050,0.052947641,35.55100131
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2055,0.049330106,25.1346438
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2060,-0.038918185,-15.79910148
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2065,-0.042069913,-16.63279106
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2070,-0.05066117,-18.4924084
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2075,-0.050244774,-16.65797755
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2080,-0.056804347,-16.78529487
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2085,-0.079642907,-21.36711503
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2090,-0.130426787,-31.22610998
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2095,-0.127840229,-30.27616119
+Taiwan,NoDAC,electricity,coal,coal (IGCC CCS),2100,-0.129124096,-29.40885494
+Taiwan,NoDAC,electricity,coal,coal (conv pul),1990,0,0
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2005,0,0
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2010,0,0
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2015,0,0
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2020,-1.00E-06,-4.49E-05
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2025,9.99E-07,4.05E-05
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2030,7.40E-06,0.000286032
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2035,-0.000555373,-0.024494668
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2040,-0.008112882,-0.4790494
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2045,-0.065496898,-7.198192175
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2050,-0.206127898,-70.28633599
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2055,-0.10550475,-95.93212238
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2060,-0.061522429,-98.90340497
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2065,-0.132862302,-99.59863497
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2070,-0.172446422,-99.69937328
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2075,-0.172978842,-99.69650194
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2080,-0.094191889,-99.73874756
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2085,-0.054512024,-99.80551547
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2090,-0.034595557,-99.8886341
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2095,-0.021148556,-99.91296734
+Taiwan,NoDAC,electricity,coal,coal (conv pul),2100,-0.015482852,-99.94525322
+Taiwan,NoDAC,electricity,coal,coal (IGCC),1990,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2005,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2010,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2015,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2020,0,NA
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2025,4.00E-07,0.000475701
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2030,1.43E-06,0.000947803
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2035,-0.000126518,-0.061209559
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2040,-0.000642415,-0.285517504
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2045,-0.009071432,-4.825813757
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2050,-0.058609195,-66.4513424
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2055,-0.037324511,-95.87377869
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2060,-0.023915473,-99.03700537
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2065,-0.047137736,-99.60188476
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2070,-0.065075388,-99.70951743
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2075,-0.071229933,-99.71199771
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2080,-0.069117069,-99.74872731
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2085,-0.049174194,-99.82008986
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2090,-0.038574594,-99.89246992
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2095,-0.02602444,-99.91415605
+Taiwan,NoDAC,electricity,coal,coal (IGCC),2100,-0.019745587,-99.94326415
+Taiwan,NoDAC,electricity,geothermal,geothermal,1990,0,0
+Taiwan,NoDAC,electricity,geothermal,geothermal,2005,0,NA
+Taiwan,NoDAC,electricity,geothermal,geothermal,2010,0,NA
+Taiwan,NoDAC,electricity,geothermal,geothermal,2015,0,NA
+Taiwan,NoDAC,electricity,geothermal,geothermal,2020,0,0
+Taiwan,NoDAC,electricity,geothermal,geothermal,2025,1.00E-10,2.29E-06
+Taiwan,NoDAC,electricity,geothermal,geothermal,2030,5.20E-09,0.000118471
+Taiwan,NoDAC,electricity,geothermal,geothermal,2035,-7.87E-08,-0.001860466
+Taiwan,NoDAC,electricity,geothermal,geothermal,2040,-1.38E-06,-0.032663789
+Taiwan,NoDAC,electricity,geothermal,geothermal,2045,-6.06E-06,-0.145469021
+Taiwan,NoDAC,electricity,geothermal,geothermal,2050,-2.03E-05,-0.489785169
+Taiwan,NoDAC,electricity,geothermal,geothermal,2055,-2.01E-05,-0.48492508
+Taiwan,NoDAC,electricity,geothermal,geothermal,2060,6.40E-05,1.542995201
+Taiwan,NoDAC,electricity,geothermal,geothermal,2065,-8.01E-05,-1.871324444
+Taiwan,NoDAC,electricity,geothermal,geothermal,2070,1.60E-06,0.038280877
+Taiwan,NoDAC,electricity,geothermal,geothermal,2075,-5.03E-06,-0.121113835
+Taiwan,NoDAC,electricity,geothermal,geothermal,2080,-2.70E-06,-0.065141042
+Taiwan,NoDAC,electricity,geothermal,geothermal,2085,1.12E-05,0.270340725
+Taiwan,NoDAC,electricity,geothermal,geothermal,2090,7.19E-05,1.737767591
+Taiwan,NoDAC,electricity,geothermal,geothermal,2095,2.59E-06,0.062288084
+Taiwan,NoDAC,electricity,geothermal,geothermal,2100,4.88E-06,0.117800447
+Taiwan,NoDAC,electricity,nuclear,Gen_III,1990,0,NA
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2005,0,NA
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2010,0,NA
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2015,0,NA
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2020,0,0
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2025,2.00E-09,0.000479974
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2030,4.00E-09,0.000618685
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2035,5.55E-07,0.029154795
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2040,1.56E-05,0.453198703
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2045,0.000160994,2.787122391
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2050,0.001268254,14.79458197
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2055,0.002046894,18.96604763
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2060,0.001073564,8.313957842
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2065,0.001602825,11.93835027
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2070,0.001620357,11.20319677
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2075,0.00172256,10.9319754
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2080,0.001793542,10.51281402
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2085,0.001591853,8.732205323
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2090,0.000731727,3.755460344
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2095,0.000688642,3.595403427
+Taiwan,NoDAC,electricity,nuclear,Gen_III,2100,0.000574076,3.059106204
+Taiwan,NoDAC,electricity,solar,PV,1990,0,NA
+Taiwan,NoDAC,electricity,solar,PV,2005,0,0
+Taiwan,NoDAC,electricity,solar,PV,2010,0,0
+Taiwan,NoDAC,electricity,solar,PV,2015,0,0
+Taiwan,NoDAC,electricity,solar,PV,2020,0,0
+Taiwan,NoDAC,electricity,solar,PV,2025,3.00E-10,0.000253488
+Taiwan,NoDAC,electricity,solar,PV,2030,1.50E-09,0.000729241
+Taiwan,NoDAC,electricity,solar,PV,2035,1.56E-07,0.024827422
+Taiwan,NoDAC,electricity,solar,PV,2040,2.59E-06,0.266643381
+Taiwan,NoDAC,electricity,solar,PV,2045,1.28E-05,1.034067634
+Taiwan,NoDAC,electricity,solar,PV,2050,4.29E-05,3.081948904
+Taiwan,NoDAC,electricity,solar,PV,2055,2.46E-05,1.682625703
+Taiwan,NoDAC,electricity,solar,PV,2060,-4.93E-05,-3.31814301
+Taiwan,NoDAC,electricity,solar,PV,2065,-3.66E-05,-3.339753705
+Taiwan,NoDAC,electricity,solar,PV,2070,-6.42E-05,-7.606302069
+Taiwan,NoDAC,electricity,solar,PV,2075,-9.72E-05,-14.42476474
+Taiwan,NoDAC,electricity,solar,PV,2080,-0.000138156,-23.62788615
+Taiwan,NoDAC,electricity,solar,PV,2085,-0.000130558,-24.04922504
+Taiwan,NoDAC,electricity,solar,PV,2090,-0.000109161,-20.80786466
+Taiwan,NoDAC,electricity,solar,PV,2095,-0.000118991,-22.30523724
+Taiwan,NoDAC,electricity,solar,PV,2100,-9.59E-05,-19.33308857
+Taiwan,NoDAC,electricity,solar,CSP_storage,1990,0,NA
+Taiwan,NoDAC,electricity,solar,CSP_storage,2005,0,NA
+Taiwan,NoDAC,electricity,solar,CSP_storage,2010,0,NA
+Taiwan,NoDAC,electricity,solar,CSP_storage,2015,0,NA
+Taiwan,NoDAC,electricity,solar,CSP_storage,2020,0,NA
+Taiwan,NoDAC,electricity,solar,CSP_storage,2025,3.00E-09,0.000562041
+Taiwan,NoDAC,electricity,solar,CSP_storage,2030,1.30E-08,0.000740381
+Taiwan,NoDAC,electricity,solar,CSP_storage,2035,6.11E-06,0.041357525
+Taiwan,NoDAC,electricity,solar,CSP_storage,2040,0.000304021,0.718041878
+Taiwan,NoDAC,electricity,solar,CSP_storage,2045,0.00483334,4.53579291
+Taiwan,NoDAC,electricity,solar,CSP_storage,2050,0.050628541,24.46808903
+Taiwan,NoDAC,electricity,solar,CSP_storage,2055,0.094239483,31.25899957
+Taiwan,NoDAC,electricity,solar,CSP_storage,2060,0.05196166,12.93669343
+Taiwan,NoDAC,electricity,solar,CSP_storage,2065,0.081627939,19.72250176
+Taiwan,NoDAC,electricity,solar,CSP_storage,2070,0.085736247,19.49447564
+Taiwan,NoDAC,electricity,solar,CSP_storage,2075,0.09126989,20.40491968
+Taiwan,NoDAC,electricity,solar,CSP_storage,2080,0.052577973,11.98971502
+Taiwan,NoDAC,electricity,solar,CSP_storage,2085,-0.003722408,-0.858929554
+Taiwan,NoDAC,electricity,solar,CSP_storage,2090,-0.020319147,-4.677922538
+Taiwan,NoDAC,electricity,solar,CSP_storage,2095,-0.053170415,-11.13196539
+Taiwan,NoDAC,electricity,solar,CSP_storage,2100,-0.064640022,-12.60008961

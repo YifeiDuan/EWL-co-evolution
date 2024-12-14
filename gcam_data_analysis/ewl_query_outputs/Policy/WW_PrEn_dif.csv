@@ -1,0 +1,883 @@
+"region","Name","sector","year","Difference","Rel_Dif"
+"China","Policy","biomass",1990,0,NA
+"China","Policy","biomass",2005,0,NA
+"China","Policy","biomass",2010,0,NA
+"China","Policy","biomass",2015,0,NA
+"China","Policy","biomass",2020,-1.14809008999739e-06,-0.0014746864189438
+"China","Policy","biomass",2025,0.02370936370637,29.5090377859041
+"China","Policy","biomass",2030,0.06766502276128,61.0321272553558
+"China","Policy","biomass",2035,0.38119757939625,251.121193191976
+"China","Policy","biomass",2040,0.78831685022928,334.481518520642
+"China","Policy","biomass",2045,1.08340771290524,231.202971044418
+"China","Policy","biomass",2050,1.3543813703809,179.382530867095
+"China","Policy","biomass",2055,1.65602445725508,157.647963135336
+"China","Policy","biomass",2060,2.03987260251202,152.874615009987
+"China","Policy","biomass",2065,2.04692507985806,124.168569639726
+"China","Policy","biomass",2070,1.89630999416541,94.5901466296264
+"China","Policy","biomass",2075,1.68033464665484,69.130155565521
+"China","Policy","biomass",2080,1.42436805884158,49.010179351786
+"China","Policy","biomass",2085,1.12650657099059,33.1820242242967
+"China","Policy","biomass",2090,0.76296499073799,19.4307162664862
+"China","Policy","biomass",2095,0.438496912760881,9.72071738667823
+"China","Policy","biomass",2100,0.10304714444057,1.98258675476769
+"China","Policy","nuclearFuelGenIII",1990,0,NA
+"China","Policy","nuclearFuelGenIII",2005,0,NA
+"China","Policy","nuclearFuelGenIII",2010,0,NA
+"China","Policy","nuclearFuelGenIII",2015,0,NA
+"China","Policy","nuclearFuelGenIII",2020,0,0
+"China","Policy","nuclearFuelGenIII",2025,-7.54999999999992e-05,-0.158132735151753
+"China","Policy","nuclearFuelGenIII",2030,-0.000176999999999997,-0.221679504039071
+"China","Policy","nuclearFuelGenIII",2035,0.153828,131.786678089527
+"China","Policy","nuclearFuelGenIII",2040,0.248909,152.290081006339
+"China","Policy","nuclearFuelGenIII",2045,0.337378,147.687148979386
+"China","Policy","nuclearFuelGenIII",2050,0.39667,135.988865005331
+"China","Policy","nuclearFuelGenIII",2055,0.414254,114.208912758191
+"China","Policy","nuclearFuelGenIII",2060,0.419358,97.2907135366884
+"China","Policy","nuclearFuelGenIII",2065,0.440223,89.244039896205
+"China","Policy","nuclearFuelGenIII",2070,0.424074,76.7759023667836
+"China","Policy","nuclearFuelGenIII",2075,0.404124,66.5491983611524
+"China","Policy","nuclearFuelGenIII",2080,0.385031,61.0744429586837
+"China","Policy","nuclearFuelGenIII",2085,0.359437,55.6487584048998
+"China","Policy","nuclearFuelGenIII",2090,0.337623,51.9133278696843
+"China","Policy","nuclearFuelGenIII",2095,0.207521,32.2182046262213
+"China","Policy","nuclearFuelGenIII",2100,0.119519,19.0837732282057
+"China","Policy","regional coal",1990,0,0
+"China","Policy","regional coal",2005,0,0
+"China","Policy","regional coal",2010,0,0
+"China","Policy","regional coal",2015,0,0
+"China","Policy","regional coal",2020,-2.00000000005751e-06,-0.00017132543352252
+"China","Policy","regional coal",2025,0.00176299999999996,0.140737470732909
+"China","Policy","regional coal",2030,0.00161199999999995,0.125970961036521
+"China","Policy","regional coal",2035,-0.325367,-26.8808818220047
+"China","Policy","regional coal",2040,-0.436882,-39.3956855032513
+"China","Policy","regional coal",2045,-0.5057377,-51.0288967299343
+"China","Policy","regional coal",2050,-0.4928124,-57.0945755725244
+"China","Policy","regional coal",2055,-0.3977018,-54.1953585980404
+"China","Policy","regional coal",2060,-0.2846822,-46.2031670705166
+"China","Policy","regional coal",2065,-0.1464364,-28.3985749941336
+"China","Policy","regional coal",2070,-0.051069,-11.901893106928
+"China","Policy","regional coal",2075,0.019514,5.44555975074438
+"China","Policy","regional coal",2080,0.068004,22.6446005794013
+"China","Policy","regional coal",2085,0.0971262,37.780417674132
+"China","Policy","regional coal",2090,0.1174283,51.897262880258
+"China","Policy","regional coal",2095,0.0888676,42.9894823611137
+"China","Policy","regional coal",2100,0.0596251,30.4646146111368
+"China","Policy","regional natural gas",1990,0,0
+"China","Policy","regional natural gas",2005,0,0
+"China","Policy","regional natural gas",2010,0,0
+"China","Policy","regional natural gas",2015,0,0
+"China","Policy","regional natural gas",2020,1.99999999986886e-10,8.73213350850951e-05
+"China","Policy","regional natural gas",2025,1.54430000000002e-06,0.593160315758106
+"China","Policy","regional natural gas",2030,5.512e-06,1.87388661490134
+"China","Policy","regional natural gas",2035,1.6052e-05,4.91453449389664
+"China","Policy","regional natural gas",2040,1.9371e-05,5.44840873613006
+"China","Policy","regional natural gas",2045,9.16999999999964e-07,0.225809787881615
+"China","Policy","regional natural gas",2050,-2.54900000000002e-06,-0.569519851643323
+"China","Policy","regional natural gas",2055,5.8147e-05,12.1472874532833
+"China","Policy","regional natural gas",2060,0.000173191,34.737270696025
+"China","Policy","regional natural gas",2065,0.000220395,43.4027846156876
+"China","Policy","regional natural gas",2070,0.000241024,47.2115631347707
+"China","Policy","regional natural gas",2075,0.00024298,47.2993360028187
+"China","Policy","regional natural gas",2080,0.000224565,43.3385118639816
+"China","Policy","regional natural gas",2085,0.000210911,40.8499998063164
+"China","Policy","regional natural gas",2090,0.000198702,39.1170309940784
+"China","Policy","regional natural gas",2095,0.000207014,42.2684580202548
+"China","Policy","regional natural gas",2100,0.000214212,45.4635558489132
+"China","Policy","regional oil",1990,0,0
+"China","Policy","regional oil",2005,0,0
+"China","Policy","regional oil",2010,0,0
+"China","Policy","regional oil",2015,0,0
+"China","Policy","regional oil",2020,9.99999999962142e-06,0.000242044599128674
+"China","Policy","regional oil",2025,0.00137000000000054,0.0299235093942463
+"China","Policy","regional oil",2030,0.0223400000000007,0.463793389802373
+"China","Policy","regional oil",2035,0.0203800000000003,0.405446269416863
+"China","Policy","regional oil",2040,-0.0654300000000001,-1.27488192290306
+"China","Policy","regional oil",2045,-0.21712,-4.25769736855007
+"China","Policy","regional oil",2050,-0.501749999999999,-10.0852446890408
+"China","Policy","regional oil",2055,-0.825044,-17.0587347435847
+"China","Policy","regional oil",2060,-1.072781,-22.7395881026267
+"China","Policy","regional oil",2065,-0.94994,-20.6965820159308
+"China","Policy","regional oil",2070,-0.79518,-17.7919285440995
+"China","Policy","regional oil",2075,-0.66986,-15.5519543837817
+"China","Policy","regional oil",2080,-0.527769999999999,-12.7568803569616
+"China","Policy","regional oil",2085,-0.34335,-8.71727688874333
+"China","Policy","regional oil",2090,-0.12497,-3.34859767256786
+"China","Policy","regional oil",2095,0.0728599999999999,2.06869333878473
+"China","Policy","regional oil",2100,0.21713,6.54508734118073
+"Global","Policy","biomass",1990,0,NA
+"Global","Policy","biomass",2005,0,NA
+"Global","Policy","biomass",2010,0,NA
+"Global","Policy","biomass",2015,0,NA
+"Global","Policy","biomass",2020,-5.77459250017398e-06,-0.000174280614283345
+"Global","Policy","biomass",2025,1.28224345012468,39.4899009279376
+"Global","Policy","biomass",2030,3.71923765011346,87.1907014845805
+"Global","Policy","biomass",2035,13.4988637803822,229.766822481772
+"Global","Policy","biomass",2040,24.3640233373337,263.027178843603
+"Global","Policy","biomass",2045,30.9733915046224,193.392522403779
+"Global","Policy","biomass",2050,34.1026508292241,145.019626203581
+"Global","Policy","biomass",2055,31.5310709948034,107.581717631586
+"Global","Policy","biomass",2060,29.8384218606291,87.0701275284475
+"Global","Policy","biomass",2065,25.2326435468152,63.8781489124712
+"Global","Policy","biomass",2070,20.4436460947337,44.9567178525762
+"Global","Policy","biomass",2075,15.1868971140676,28.7629045954985
+"Global","Policy","biomass",2080,10.3990091352388,17.1497307544556
+"Global","Policy","biomass",2085,6.32264266818601,9.33999794079561
+"Global","Policy","biomass",2090,2.48828979429101,3.32929993942508
+"Global","Policy","biomass",2095,-1.4420834889012,-1.75989267314867
+"Global","Policy","biomass",2100,-5.3813058385203,-5.98708466998376
+"Global","Policy","nuclearFuelGenIII",1990,0,NA
+"Global","Policy","nuclearFuelGenIII",2005,0,NA
+"Global","Policy","nuclearFuelGenIII",2010,0,NA
+"Global","Policy","nuclearFuelGenIII",2015,0,NA
+"Global","Policy","nuclearFuelGenIII",2020,4.04626462000013e-05,0.0182548603763765
+"Global","Policy","nuclearFuelGenIII",2025,0.034982020481,9.03363909238508
+"Global","Policy","nuclearFuelGenIII",2030,0.106264818172,21.0823093382004
+"Global","Policy","nuclearFuelGenIII",2035,0.360464968234,55.9209146290335
+"Global","Policy","nuclearFuelGenIII",2040,0.541299583472,67.826483954842
+"Global","Policy","nuclearFuelGenIII",2045,0.697627318511,69.5882606039811
+"Global","Policy","nuclearFuelGenIII",2050,0.812974734,66.2262967604587
+"Global","Policy","nuclearFuelGenIII",2055,0.8773087514,60.5369803767702
+"Global","Policy","nuclearFuelGenIII",2060,0.938263875,56.8272793410977
+"Global","Policy","nuclearFuelGenIII",2065,1.004355485,53.9171917508669
+"Global","Policy","nuclearFuelGenIII",2070,1.017018987,49.1393271281292
+"Global","Policy","nuclearFuelGenIII",2075,1.019768698,44.8969040629906
+"Global","Policy","nuclearFuelGenIII",2080,1.021045337,45.2353568842668
+"Global","Policy","nuclearFuelGenIII",2085,0.982247309,42.9808856080818
+"Global","Policy","nuclearFuelGenIII",2090,0.922826607,39.5733067077897
+"Global","Policy","nuclearFuelGenIII",2095,0.73467973,31.230857327754
+"Global","Policy","nuclearFuelGenIII",2100,0.594166717,25.1813060770854
+"Global","Policy","regional coal",1990,0,0
+"Global","Policy","regional coal",2005,0,0
+"Global","Policy","regional coal",2010,0,0
+"Global","Policy","regional coal",2015,0,0
+"Global","Policy","regional coal",2020,8.63470000012079e-06,0.000437795474401216
+"Global","Policy","regional coal",2025,-0.10363465338,-4.80185998796219
+"Global","Policy","regional coal",2030,-0.20483867783,-8.96889118437675
+"Global","Policy","regional coal",2035,-0.6613711022,-29.5403678761451
+"Global","Policy","regional coal",2040,-0.86105427658,-39.7255316614413
+"Global","Policy","regional coal",2045,-0.97720925009,-47.2557986755799
+"Global","Policy","regional coal",2050,-0.97599180667,-50.0940936819205
+"Global","Policy","regional coal",2055,-0.87889092247,-48.5386380173445
+"Global","Policy","regional coal",2060,-0.76142311726,-45.260039188785
+"Global","Policy","regional coal",2065,-0.6335194778,-39.8069597070741
+"Global","Policy","regional coal",2070,-0.5428867961,-36.0027684482531
+"Global","Policy","regional coal",2075,-0.4752709819,-32.9917450755845
+"Global","Policy","regional coal",2080,-0.4000940383,-29.2016887436567
+"Global","Policy","regional coal",2085,-0.33400425348,-25.8448503002855
+"Global","Policy","regional coal",2090,-0.27658708607,-22.5539935582978
+"Global","Policy","regional coal",2095,-0.282245527,-24.1500113444005
+"Global","Policy","regional coal",2100,-0.28885347653,-25.8570887960002
+"Global","Policy","regional natural gas",1990,0,0
+"Global","Policy","regional natural gas",2005,0,0
+"Global","Policy","regional natural gas",2010,0,0
+"Global","Policy","regional natural gas",2015,0,0
+"Global","Policy","regional natural gas",2020,-1.38730000000774e-08,-0.000479179042985887
+"Global","Policy","regional natural gas",2025,-7.85444610000002e-05,-2.53089912391948
+"Global","Policy","regional natural gas",2030,-0.00020032946,-5.83842758399788
+"Global","Policy","regional natural gas",2035,-0.000362604774,-9.98907385740085
+"Global","Policy","regional natural gas",2040,-0.000459313511,-11.8702397967063
+"Global","Policy","regional natural gas",2045,-0.0003369518,-7.9238082239623
+"Global","Policy","regional natural gas",2050,-2.93829799999975e-06,-0.0636619072699414
+"Global","Policy","regional natural gas",2055,0.000289891951999999,5.90195995622237
+"Global","Policy","regional natural gas",2060,0.00059571952,11.5754884578994
+"Global","Policy","regional natural gas",2065,0.000779544839,14.716011748483
+"Global","Policy","regional natural gas",2070,0.000909103003,16.8003201796698
+"Global","Policy","regional natural gas",2075,0.000961794629,17.1457181365638
+"Global","Policy","regional natural gas",2080,0.000932529801,15.9176743510459
+"Global","Policy","regional natural gas",2085,0.000919685125,15.0711521312924
+"Global","Policy","regional natural gas",2090,0.00091915068,14.5537292203373
+"Global","Policy","regional natural gas",2095,0.00095492503,14.7380358182389
+"Global","Policy","regional natural gas",2100,0.00099571928,15.0109773693146
+"Global","Policy","regional oil",1990,0,0
+"Global","Policy","regional oil",2005,0,0
+"Global","Policy","regional oil",2010,0,0
+"Global","Policy","regional oil",2015,0,0
+"Global","Policy","regional oil",2020,-3.21400000018457e-05,-0.000131763923719899
+"Global","Policy","regional oil",2025,-0.154185139999999,-0.601192653156931
+"Global","Policy","regional oil",2030,-0.331099179999999,-1.27750980107387
+"Global","Policy","regional oil",2035,-0.942884969999998,-3.60991962689627
+"Global","Policy","regional oil",2040,-1.47072648,-5.65308033470806
+"Global","Policy","regional oil",2045,-1.87156975,-7.28569822285132
+"Global","Policy","regional oil",2050,-1.97474151,-7.76207653586826
+"Global","Policy","regional oil",2055,-2.0681198,-8.06060215500023
+"Global","Policy","regional oil",2060,-2.30641824,-8.82870698161851
+"Global","Policy","regional oil",2065,-1.884932621,-7.11134857449064
+"Global","Policy","regional oil",2070,-1.2674604,-4.71787253619696
+"Global","Policy","regional oil",2075,-0.620823523000002,-2.31181330669022
+"Global","Policy","regional oil",2080,-0.113765434999998,-0.424488655092132
+"Global","Policy","regional oil",2085,0.372951545999999,1.40318661886123
+"Global","Policy","regional oil",2090,0.882673089299999,3.34885562801837
+"Global","Policy","regional oil",2095,1.3543283021,5.1655259647329
+"Global","Policy","regional oil",2100,1.8632477501,7.13604297950686
+"Taiwan","Policy","nuclearFuelGenIII",1990,0,NA
+"Taiwan","Policy","nuclearFuelGenIII",2005,0,NA
+"Taiwan","Policy","nuclearFuelGenIII",2010,0,NA
+"Taiwan","Policy","nuclearFuelGenIII",2015,0,NA
+"Taiwan","Policy","nuclearFuelGenIII",2020,0,0
+"Taiwan","Policy","nuclearFuelGenIII",2025,-4.52499999999996e-06,-0.959477196248595
+"Taiwan","Policy","nuclearFuelGenIII",2030,-2.68299999999996e-06,-0.369879179234925
+"Taiwan","Policy","nuclearFuelGenIII",2035,0.00104498,97.9371877899511
+"Taiwan","Policy","nuclearFuelGenIII",2040,0.00229698,152.720672322545
+"Taiwan","Policy","nuclearFuelGenIII",2045,0.00427079,206.309387514552
+"Taiwan","Policy","nuclearFuelGenIII",2050,0.00661378,240.627092004541
+"Taiwan","Policy","nuclearFuelGenIII",2055,0.00827861,238.240922734245
+"Taiwan","Policy","nuclearFuelGenIII",2060,0.00968471,222.873205857242
+"Taiwan","Policy","nuclearFuelGenIII",2065,0.0087045,148.03823194272
+"Taiwan","Policy","nuclearFuelGenIII",2070,0.0084767,117.570285302154
+"Taiwan","Policy","nuclearFuelGenIII",2075,0.00858304,101.288432898349
+"Taiwan","Policy","nuclearFuelGenIII",2080,0.00889655,93.4084740690966
+"Taiwan","Policy","nuclearFuelGenIII",2085,0.0092367,88.7700380578941
+"Taiwan","Policy","nuclearFuelGenIII",2090,0.0096154,84.8450087797475
+"Taiwan","Policy","nuclearFuelGenIII",2095,0.0082069,66.5512459758184
+"Taiwan","Policy","nuclearFuelGenIII",2100,0.0069618,53.1508146157487
+"Taiwan","Policy","regional coal",1990,0,0
+"Taiwan","Policy","regional coal",2005,0,0
+"Taiwan","Policy","regional coal",2010,0,0
+"Taiwan","Policy","regional coal",2015,0,0
+"Taiwan","Policy","regional coal",2020,-9.80000000004588e-08,-0.000411238907566749
+"Taiwan","Policy","regional coal",2025,0.000118525000000001,0.459339831097813
+"Taiwan","Policy","regional coal",2030,0.000133072000000001,0.507012629480691
+"Taiwan","Policy","regional coal",2035,-0.005202982,-20.4596440284884
+"Taiwan","Policy","regional coal",2040,-0.008382687,-34.6950098327583
+"Taiwan","Policy","regional coal",2045,-0.012827342,-56.8271954849921
+"Taiwan","Policy","regional coal",2050,-0.015749204,-76.1691233458072
+"Taiwan","Policy","regional coal",2055,-0.014923162,-81.1229847628737
+"Taiwan","Policy","regional coal",2060,-0.012601142,-79.2864538660095
+"Taiwan","Policy","regional coal",2065,-0.009574581,-69.748302146404
+"Taiwan","Policy","regional coal",2070,-0.006555151,-58.0570116463845
+"Taiwan","Policy","regional coal",2075,-0.003996912,-44.5654339672795
+"Taiwan","Policy","regional coal",2080,-0.001426425,-23.4135558567005
+"Taiwan","Policy","regional coal",2085,-7.14260000000003e-05,-1.57943152317647
+"Taiwan","Policy","regional coal",2090,0.001102059,32.1280891748712
+"Taiwan","Policy","regional coal",2095,0.001517513,54.591256192502
+"Taiwan","Policy","regional coal",2100,0.00178918,71.9760817250637
+"Taiwan","Policy","regional natural gas",1990,0,0
+"Taiwan","Policy","regional natural gas",2005,0,0
+"Taiwan","Policy","regional natural gas",2010,0,0
+"Taiwan","Policy","regional natural gas",2015,0,0
+"Taiwan","Policy","regional natural gas",2020,0,0
+"Taiwan","Policy","regional natural gas",2025,-9.90479999999982e-08,-0.323637358732539
+"Taiwan","Policy","regional natural gas",2030,5.53599999999696e-09,0.0167466736783187
+"Taiwan","Policy","regional natural gas",2035,5.91529999999998e-07,1.69666684258713
+"Taiwan","Policy","regional natural gas",2040,7.21019999999997e-07,1.98780935975842
+"Taiwan","Policy","regional natural gas",2045,5.61100000000017e-08,0.146807185729017
+"Taiwan","Policy","regional natural gas",2050,-2.43767e-06,-6.09470371554732
+"Taiwan","Policy","regional natural gas",2055,-2.55714e-06,-6.2198087020989
+"Taiwan","Policy","regional natural gas",2060,3.1314e-06,7.66657240753729
+"Taiwan","Policy","regional natural gas",2065,-4.01008e-06,-11.201866456303
+"Taiwan","Policy","regional natural gas",2070,-3.47735e-06,-10.3363201707387
+"Taiwan","Policy","regional natural gas",2075,-2.83402e-06,-8.75346205629543
+"Taiwan","Policy","regional natural gas",2080,-3.32543e-06,-10.5485220021646
+"Taiwan","Policy","regional natural gas",2085,-2.83623e-06,-9.33899686365544
+"Taiwan","Policy","regional natural gas",2090,9.12338e-06,31.5595285535594
+"Taiwan","Policy","regional natural gas",2095,1.214645e-05,44.6694177340506
+"Taiwan","Policy","regional natural gas",2100,1.350781e-05,53.0109072613956
+"Taiwan","Policy","regional oil",1990,0,0
+"Taiwan","Policy","regional oil",2005,0,0
+"Taiwan","Policy","regional oil",2010,0,0
+"Taiwan","Policy","regional oil",2015,0,0
+"Taiwan","Policy","regional oil",2020,0,0
+"Taiwan","Policy","regional oil",2025,-0.000200069999999997,-0.0705520746566265
+"Taiwan","Policy","regional oil",2030,0.000278040000000035,0.0997536224729495
+"Taiwan","Policy","regional oil",2035,-0.00289123000000002,-1.06993455156287
+"Taiwan","Policy","regional oil",2040,-0.00476136999999999,-1.84817303020579
+"Taiwan","Policy","regional oil",2045,-0.00991589000000001,-4.13037139598605
+"Taiwan","Policy","regional oil",2050,-0.02006732,-9.05784847323725
+"Taiwan","Policy","regional oil",2055,-0.02994041,-14.3901509657082
+"Taiwan","Policy","regional oil",2060,-0.03534051,-17.7816875010629
+"Taiwan","Policy","regional oil",2065,-0.03237985,-16.8406073339885
+"Taiwan","Policy","regional oil",2070,-0.02478272,-13.3863536080123
+"Taiwan","Policy","regional oil",2075,-0.01773181,-10.1744566186921
+"Taiwan","Policy","regional oil",2080,-0.01017668,-6.29294535366358
+"Taiwan","Policy","regional oil",2085,-0.00270336999999998,-1.81805538546543
+"Taiwan","Policy","regional oil",2090,0.00477959,3.47899894645711
+"Taiwan","Policy","regional oil",2095,0.01031866,8.10749100595916
+"Taiwan","Policy","regional oil",2100,0.0162946,13.9521175887135
+"China","Policy_NoDAC","biomass",1990,0,NA
+"China","Policy_NoDAC","biomass",2005,0,NA
+"China","Policy_NoDAC","biomass",2010,0,NA
+"China","Policy_NoDAC","biomass",2015,0,NA
+"China","Policy_NoDAC","biomass",2020,-7.64790059989973e-07,-0.000982349316169948
+"China","Policy_NoDAC","biomass",2025,0.02371583477688,29.5170917795313
+"China","Policy_NoDAC","biomass",2030,0.06778341929051,61.138917909429
+"China","Policy_NoDAC","biomass",2035,0.38747508856206,255.256622368858
+"China","Policy_NoDAC","biomass",2040,0.87171673318673,369.86794910111
+"China","Policy_NoDAC","biomass",2045,1.43815128424624,306.906481990458
+"China","Policy_NoDAC","biomass",2050,2.20118628811306,291.538539961326
+"China","Policy_NoDAC","biomass",2055,3.95819027211156,376.806412107459
+"China","Policy_NoDAC","biomass",2060,7.08880000826463,531.257476967786
+"China","Policy_NoDAC","biomass",2065,7.24795919994312,439.668620761848
+"China","Policy_NoDAC","biomass",2070,7.45931731697772,372.079417890938
+"China","Policy_NoDAC","biomass",2075,7.889202568664,324.567372306094
+"China","Policy_NoDAC","biomass",2080,8.046333174523,276.86118735934
+"China","Policy_NoDAC","biomass",2085,7.9382953695054,233.827938543601
+"China","Policy_NoDAC","biomass",2090,7.7926941790168,198.459472429414
+"China","Policy_NoDAC","biomass",2095,7.7551837562464,171.918997334739
+"China","Policy_NoDAC","biomass",2100,7.79604973435985,149.992947662573
+"China","Policy_NoDAC","nuclearFuelGenIII",1990,0,NA
+"China","Policy_NoDAC","nuclearFuelGenIII",2005,0,NA
+"China","Policy_NoDAC","nuclearFuelGenIII",2010,0,NA
+"China","Policy_NoDAC","nuclearFuelGenIII",2015,0,NA
+"China","Policy_NoDAC","nuclearFuelGenIII",2020,0,0
+"China","Policy_NoDAC","nuclearFuelGenIII",2025,-7.54999999999992e-05,-0.158132735151753
+"China","Policy_NoDAC","nuclearFuelGenIII",2030,-0.000177399999999994,-0.222180474669665
+"China","Policy_NoDAC","nuclearFuelGenIII",2035,0.153977,131.914328550011
+"China","Policy_NoDAC","nuclearFuelGenIII",2040,0.250726,153.401776755341
+"China","Policy_NoDAC","nuclearFuelGenIII",2045,0.349433,152.964222709584
+"China","Policy_NoDAC","nuclearFuelGenIII",2050,0.454813,155.921808202459
+"China","Policy_NoDAC","nuclearFuelGenIII",2055,0.47182,130.079731801189
+"China","Policy_NoDAC","nuclearFuelGenIII",2060,0.441382,102.400263551072
+"China","Policy_NoDAC","nuclearFuelGenIII",2065,0.471659,95.6168910152449
+"China","Policy_NoDAC","nuclearFuelGenIII",2070,0.452647,81.9488624122617
+"China","Policy_NoDAC","nuclearFuelGenIII",2075,0.435304,71.6837709302172
+"China","Policy_NoDAC","nuclearFuelGenIII",2080,0.431191,68.3964411535637
+"China","Policy_NoDAC","nuclearFuelGenIII",2085,0.401407,62.1466381174882
+"China","Policy_NoDAC","nuclearFuelGenIII",2090,0.369841,56.867207188645
+"China","Policy_NoDAC","nuclearFuelGenIII",2095,0.238136,36.9712673747227
+"China","Policy_NoDAC","nuclearFuelGenIII",2100,0.142901,22.8172113060167
+"China","Policy_NoDAC","regional coal",1990,0,0
+"China","Policy_NoDAC","regional coal",2005,0,0
+"China","Policy_NoDAC","regional coal",2010,0,0
+"China","Policy_NoDAC","regional coal",2015,0,0
+"China","Policy_NoDAC","regional coal",2020,-3.00000000019729e-06,-0.000256988150293291
+"China","Policy_NoDAC","regional coal",2025,0.00175599999999987,0.140178671926816
+"China","Policy_NoDAC","regional coal",2030,0.00161199999999995,0.125970961036521
+"China","Policy_NoDAC","regional coal",2035,-0.3256362,-26.9031223485071
+"China","Policy_NoDAC","regional coal",2040,-0.4401507,-39.6904394120973
+"China","Policy_NoDAC","regional coal",2045,-0.5225887,-52.7291613904413
+"China","Policy_NoDAC","regional coal",2050,-0.55242621,-64.0011087283685
+"China","Policy_NoDAC","regional coal",2055,-0.46707561,-63.649020890397
+"China","Policy_NoDAC","regional coal",2060,-0.37020488,-60.083271525092
+"China","Policy_NoDAC","regional coal",2065,-0.2605799,-50.5345517379137
+"China","Policy_NoDAC","regional coal",2070,-0.1707121,-39.7853329076193
+"China","Policy_NoDAC","regional coal",2075,-0.1046545,-29.2047931195182
+"China","Policy_NoDAC","regional coal",2080,-0.054803,-18.2488095634511
+"China","Policy_NoDAC","regional coal",2085,-0.0281728,-10.9587335965969
+"China","Policy_NoDAC","regional coal",2090,-0.0161127,-7.12098384810759
+"China","Policy_NoDAC","regional coal",2095,-0.0232138,-11.2296185070197
+"China","Policy_NoDAC","regional coal",2100,-0.0361546,-18.4726894448782
+"China","Policy_NoDAC","regional natural gas",1990,0,0
+"China","Policy_NoDAC","regional natural gas",2005,0,0
+"China","Policy_NoDAC","regional natural gas",2010,0,0
+"China","Policy_NoDAC","regional natural gas",2015,0,0
+"China","Policy_NoDAC","regional natural gas",2020,9.99999999798905e-11,4.36606675366304e-05
+"China","Policy_NoDAC","regional natural gas",2025,1.54549999999999e-06,0.593621231628659
+"China","Policy_NoDAC","regional natural gas",2030,5.52899999999999e-06,1.87966601846689
+"China","Policy_NoDAC","regional natural gas",2035,1.6612e-05,5.0859859838407
+"China","Policy_NoDAC","regional natural gas",2040,2.4064e-05,6.7683912976219
+"China","Policy_NoDAC","regional natural gas",2045,1.2557e-05,3.09214122838553
+"China","Policy_NoDAC","regional natural gas",2050,-5.7702e-05,-12.8922850056974
+"China","Policy_NoDAC","regional natural gas",2055,-0.000169528,-35.4155046241458
+"China","Policy_NoDAC","regional natural gas",2060,-0.000257387,-51.6246334546125
+"China","Policy_NoDAC","regional natural gas",2065,-0.000261032,-51.4055022745623
+"China","Policy_NoDAC","regional natural gas",2070,-0.000256842,-50.3099786687665
+"China","Policy_NoDAC","regional natural gas",2075,-0.000258077,-50.2381707860707
+"China","Policy_NoDAC","regional natural gas",2080,-0.000260192,-50.2141209846285
+"China","Policy_NoDAC","regional natural gas",2085,-0.000240067,-46.4970385778976
+"China","Policy_NoDAC","regional natural gas",2090,-0.000214762,-42.2786474738566
+"China","Policy_NoDAC","regional natural gas",2095,-0.000174832,-35.6974844821954
+"China","Policy_NoDAC","regional natural gas",2100,-0.000145962,-30.9784304278895
+"China","Policy_NoDAC","regional oil",1990,0,0
+"China","Policy_NoDAC","regional oil",2005,0,0
+"China","Policy_NoDAC","regional oil",2010,0,0
+"China","Policy_NoDAC","regional oil",2015,0,0
+"China","Policy_NoDAC","regional oil",2020,9.99999999962142e-06,0.000242044599128674
+"China","Policy_NoDAC","regional oil",2025,0.00138000000000016,0.0301419291708383
+"China","Policy_NoDAC","regional oil",2030,0.0224500000000001,0.466077063610698
+"China","Policy_NoDAC","regional oil",2035,0.0227300000000001,0.452197924624398
+"China","Policy_NoDAC","regional oil",2040,-0.0348500000000005,-0.679040730753053
+"China","Policy_NoDAC","regional oil",2045,-0.0506799999999998,-0.993828770440846
+"China","Policy_NoDAC","regional oil",2050,-0.358044,-7.19673412943283
+"China","Policy_NoDAC","regional oil",2055,-1.455431,-30.0927118633555
+"China","Policy_NoDAC","regional oil",2060,-2.769617,-58.7071823438639
+"China","Policy_NoDAC","regional oil",2065,-2.593802,-56.5118174053997
+"China","Policy_NoDAC","regional oil",2070,-2.608175,-58.3571810539835
+"China","Policy_NoDAC","regional oil",2075,-2.521607,-58.5434524196469
+"China","Policy_NoDAC","regional oil",2080,-2.507973,-60.620936202304
+"China","Policy_NoDAC","regional oil",2085,-2.321842,-58.9490013278392
+"China","Policy_NoDAC","regional oil",2090,-2.136964,-57.2604039110292
+"China","Policy_NoDAC","regional oil",2095,-1.937894,-55.0220753372345
+"China","Policy_NoDAC","regional oil",2100,-1.740026,-52.450707621818
+"Global","Policy_NoDAC","biomass",1990,0,NA
+"Global","Policy_NoDAC","biomass",2005,0,NA
+"Global","Policy_NoDAC","biomass",2010,0,NA
+"Global","Policy_NoDAC","biomass",2015,0,NA
+"Global","Policy_NoDAC","biomass",2020,2.22117027699475e-05,0.000670362316113025
+"Global","Policy_NoDAC","biomass",2025,1.28256727076238,39.4998737961164
+"Global","Policy_NoDAC","biomass",2030,3.72579168211786,87.3443487375327
+"Global","Policy_NoDAC","biomass",2035,13.715011285173,233.445911786705
+"Global","Policy_NoDAC","biomass",2040,27.0254077617393,291.758740428386
+"Global","Policy_NoDAC","biomass",2045,42.0588077718989,262.607952477187
+"Global","Policy_NoDAC","biomass",2050,59.8391750763707,254.462764357
+"Global","Policy_NoDAC","biomass",2055,73.4983367792131,250.770971752774
+"Global","Policy_NoDAC","biomass",2060,93.704104454047,273.433640789098
+"Global","Policy_NoDAC","biomass",2065,90.6518208366296,229.491234235732
+"Global","Policy_NoDAC","biomass",2070,88.7105039634673,195.079345375324
+"Global","Policy_NoDAC","biomass",2075,89.5489890590858,169.599425714418
+"Global","Policy_NoDAC","biomass",2080,89.5705389243651,147.717018622378
+"Global","Policy_NoDAC","biomass",2085,89.9806038941948,132.922054778156
+"Global","Policy_NoDAC","biomass",2090,90.509186584341,121.100134760838
+"Global","Policy_NoDAC","biomass",2095,90.9618387962738,111.00818701951
+"Global","Policy_NoDAC","biomass",2100,91.4184899668919,101.70955828527
+"Global","Policy_NoDAC","nuclearFuelGenIII",1990,0,NA
+"Global","Policy_NoDAC","nuclearFuelGenIII",2005,0,NA
+"Global","Policy_NoDAC","nuclearFuelGenIII",2010,0,NA
+"Global","Policy_NoDAC","nuclearFuelGenIII",2015,0,NA
+"Global","Policy_NoDAC","nuclearFuelGenIII",2020,3.03075685000043e-05,0.0136733625522254
+"Global","Policy_NoDAC","nuclearFuelGenIII",2025,0.034973469462,9.03143090605233
+"Global","Policy_NoDAC","nuclearFuelGenIII",2030,0.106282433962,21.0858042064023
+"Global","Policy_NoDAC","nuclearFuelGenIII",2035,0.360930808616,55.9931830116179
+"Global","Policy_NoDAC","nuclearFuelGenIII",2040,0.547293081134,68.5774874387124
+"Global","Policy_NoDAC","nuclearFuelGenIII",2045,0.727387485391,72.5568345022677
+"Global","Policy_NoDAC","nuclearFuelGenIII",2050,0.9174656333,74.7383021357807
+"Global","Policy_NoDAC","nuclearFuelGenIII",2055,1.0287260467,70.985235702677
+"Global","Policy_NoDAC","nuclearFuelGenIII",2060,1.111549864,67.3225904845662
+"Global","Policy_NoDAC","nuclearFuelGenIII",2065,1.198947323,64.36353828782
+"Global","Policy_NoDAC","nuclearFuelGenIII",2070,1.219160504,58.906202925935
+"Global","Policy_NoDAC","nuclearFuelGenIII",2075,1.232457036,54.2608391643825
+"Global","Policy_NoDAC","nuclearFuelGenIII",2080,1.260968139,55.864653331603
+"Global","Policy_NoDAC","nuclearFuelGenIII",2085,1.234715406,54.028309507766
+"Global","Policy_NoDAC","nuclearFuelGenIII",2090,1.182485111,50.7081672982124
+"Global","Policy_NoDAC","nuclearFuelGenIII",2095,0.989681092,42.0708340275398
+"Global","Policy_NoDAC","nuclearFuelGenIII",2100,0.834892207,35.383463267668
+"Global","Policy_NoDAC","regional coal",1990,0,0
+"Global","Policy_NoDAC","regional coal",2005,0,0
+"Global","Policy_NoDAC","regional coal",2010,0,0
+"Global","Policy_NoDAC","regional coal",2015,0,0
+"Global","Policy_NoDAC","regional coal",2020,1.45282000001412e-05,0.000736606970846537
+"Global","Policy_NoDAC","regional coal",2025,-0.10365335519,-4.80272652700308
+"Global","Policy_NoDAC","regional coal",2030,-0.20496618709,-8.97447419579851
+"Global","Policy_NoDAC","regional coal",2035,-0.66293529657,-29.6102331559644
+"Global","Policy_NoDAC","regional coal",2040,-0.87187769297,-40.2248799396866
+"Global","Policy_NoDAC","regional coal",2045,-1.02114346213,-49.380365424146
+"Global","Policy_NoDAC","regional coal",2050,-1.10175236252,-56.5489235515839
+"Global","Policy_NoDAC","regional coal",2055,-1.03606067245,-57.2186748757479
+"Global","Policy_NoDAC","regional coal",2060,-0.95556743299,-56.8002448103845
+"Global","Policy_NoDAC","regional coal",2065,-0.86676898103,-54.4631051013959
+"Global","Policy_NoDAC","regional coal",2070,-0.77993535859,-51.7231811892303
+"Global","Policy_NoDAC","regional coal",2075,-0.73113887443,-50.7532508372658
+"Global","Policy_NoDAC","regional coal",2080,-0.67908357115,-49.5643153292474
+"Global","Policy_NoDAC","regional coal",2085,-0.62390286896,-48.2768589986096
+"Global","Policy_NoDAC","regional coal",2090,-0.57676549597,-47.0317159979898
+"Global","Policy_NoDAC","regional coal",2095,-0.5551334555,-47.4993506202891
+"Global","Policy_NoDAC","regional coal",2100,-0.53852876604,-48.2070920176392
+"Global","Policy_NoDAC","regional natural gas",1990,0,0
+"Global","Policy_NoDAC","regional natural gas",2005,0,0
+"Global","Policy_NoDAC","regional natural gas",2010,0,0
+"Global","Policy_NoDAC","regional natural gas",2015,0,0
+"Global","Policy_NoDAC","regional natural gas",2020,-8.01800000005404e-09,-0.000276944969845405
+"Global","Policy_NoDAC","regional natural gas",2025,-7.8619816e-05,-2.53332725062701
+"Global","Policy_NoDAC","regional natural gas",2030,-0.000201102599,-5.86096004659158
+"Global","Policy_NoDAC","regional natural gas",2035,-0.000374018563,-10.3035020985298
+"Global","Policy_NoDAC","regional natural gas",2040,-0.000579859046,-14.9855507392408
+"Global","Policy_NoDAC","regional natural gas",2045,-0.000840975072,-19.7764938239264
+"Global","Policy_NoDAC","regional natural gas",2050,-0.001181460455,-25.5978208913184
+"Global","Policy_NoDAC","regional natural gas",2055,-0.001439017437,-29.2972027366934
+"Global","Policy_NoDAC","regional natural gas",2060,-0.001663982483,-32.3330181057578
+"Global","Policy_NoDAC","regional natural gas",2065,-0.001629270508,-30.7568759841214
+"Global","Policy_NoDAC","regional natural gas",2070,-0.001537098292,-28.4057399084662
+"Global","Policy_NoDAC","regional natural gas",2075,-0.001526346415,-27.2098685324897
+"Global","Policy_NoDAC","regional natural gas",2080,-0.001571534495,-26.8250669265694
+"Global","Policy_NoDAC","regional natural gas",2085,-0.001568681025,-25.7064398788081
+"Global","Policy_NoDAC","regional natural gas",2090,-0.001530426461,-24.2326016720491
+"Global","Policy_NoDAC","regional natural gas",2095,-0.001467008431,-22.6413824357882
+"Global","Policy_NoDAC","regional natural gas",2100,-0.001378579445,-20.7827901561747
+"Global","Policy_NoDAC","regional oil",1990,0,0
+"Global","Policy_NoDAC","regional oil",2005,0,0
+"Global","Policy_NoDAC","regional oil",2010,0,0
+"Global","Policy_NoDAC","regional oil",2015,0,0
+"Global","Policy_NoDAC","regional oil",2020,-4.22200000009809e-05,-0.000173088763511634
+"Global","Policy_NoDAC","regional oil",2025,-0.154285720000001,-0.601584830749762
+"Global","Policy_NoDAC","regional oil",2030,-0.332209839999997,-1.28179516063187
+"Global","Policy_NoDAC","regional oil",2035,-0.963582729999999,-3.68916285638247
+"Global","Policy_NoDAC","regional oil",2040,-1.65504881,-6.36156621100137
+"Global","Policy_NoDAC","regional oil",2045,-2.54632124,-9.91238939028406
+"Global","Policy_NoDAC","regional oil",2050,-3.83354453,-15.0684359926779
+"Global","Policy_NoDAC","regional oil",2055,-5.069648626,-19.7592134845523
+"Global","Policy_NoDAC","regional oil",2060,-6.749421776,-25.8360197306015
+"Global","Policy_NoDAC","regional oil",2065,-7.262635751,-27.3999896969891
+"Global","Policy_NoDAC","regional oil",2070,-8.854948424,-32.9608072796832
+"Global","Policy_NoDAC","regional oil",2075,-9.379599164,-34.9276104326279
+"Global","Policy_NoDAC","regional oil",2080,-9.90845359,-36.9710372791348
+"Global","Policy_NoDAC","regional oil",2085,-10.305648205,-38.7737973338426
+"Global","Policy_NoDAC","regional oil",2090,-10.7527190973,-40.79574227651
+"Global","Policy_NoDAC","regional oil",2095,-11.250115254,-42.9089182886202
+"Global","Policy_NoDAC","regional oil",2100,-11.5905020082,-44.3904040566461
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",1990,0,NA
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2005,0,NA
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2010,0,NA
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2015,0,NA
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2020,9.9999999998864e-10,0.000421387967683184
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2025,-4.52499999999996e-06,-0.959477196248595
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2030,-2.67799999999999e-06,-0.369189877745487
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2035,0.00104566,98.0009184715883
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2040,0.00231407,153.856945294008
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2045,0.00444562,214.754914037554
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2050,0.00798434,290.491748406438
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2055,0.01048661,301.782502467704
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2060,0.01085031,249.69703524885
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2065,0.0104366,177.496215922039
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2070,0.0102273,141.850788499147
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2075,0.01044054,123.20878560656
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2080,0.01082785,113.685973321014
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2085,0.0109554,105.287740745012
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2090,0.0104311,92.042636924353
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2095,0.0089738,72.7701776721782
+"Taiwan","Policy_NoDAC","nuclearFuelGenIII",2100,0.0076061,58.069811119085
+"Taiwan","Policy_NoDAC","regional coal",1990,0,0
+"Taiwan","Policy_NoDAC","regional coal",2005,0,0
+"Taiwan","Policy_NoDAC","regional coal",2010,0,0
+"Taiwan","Policy_NoDAC","regional coal",2015,0,0
+"Taiwan","Policy_NoDAC","regional coal",2020,-9.70000000009852e-08,-0.000407042592185643
+"Taiwan","Policy_NoDAC","regional coal",2025,0.000118522999999999,0.459332080162034
+"Taiwan","Policy_NoDAC","regional coal",2030,0.000132938000000003,0.506502081113267
+"Taiwan","Policy_NoDAC","regional coal",2035,-0.005206443,-20.4732536907902
+"Taiwan","Policy_NoDAC","regional coal",2040,-0.008441748,-34.9394567476595
+"Taiwan","Policy_NoDAC","regional coal",2045,-0.013327178,-59.0415496421072
+"Taiwan","Policy_NoDAC","regional coal",2050,-0.017394292,-84.1253928046768
+"Taiwan","Policy_NoDAC","regional coal",2055,-0.0160856774,-87.4424711479177
+"Taiwan","Policy_NoDAC","regional coal",2060,-0.01416927,-89.1531237541829
+"Taiwan","Policy_NoDAC","regional coal",2065,-0.012017605,-87.5450888781593
+"Taiwan","Policy_NoDAC","regional coal",2070,-0.009498127,-84.1220697826548
+"Taiwan","Policy_NoDAC","regional coal",2075,-0.006980865,-77.8364092559438
+"Taiwan","Policy_NoDAC","regional coal",2080,-0.00392238,-64.3825390197206
+"Taiwan","Policy_NoDAC","regional coal",2085,-0.002327284,-51.4628526444742
+"Taiwan","Policy_NoDAC","regional coal",2090,-0.001326196,-38.6623069648336
+"Taiwan","Policy_NoDAC","regional coal",2095,-0.000664602,-23.9084990033359
+"Taiwan","Policy_NoDAC","regional coal",2100,-0.000291296,-11.7184099432054
+"Taiwan","Policy_NoDAC","regional natural gas",1990,0,0
+"Taiwan","Policy_NoDAC","regional natural gas",2005,0,0
+"Taiwan","Policy_NoDAC","regional natural gas",2010,0,0
+"Taiwan","Policy_NoDAC","regional natural gas",2015,0,0
+"Taiwan","Policy_NoDAC","regional natural gas",2020,9.99999999392329e-13,3.76562820202599e-06
+"Taiwan","Policy_NoDAC","regional natural gas",2025,-9.91569999999963e-08,-0.323993514052194
+"Taiwan","Policy_NoDAC","regional natural gas",2030,5.36399999999984e-09,0.0162263651753158
+"Taiwan","Policy_NoDAC","regional natural gas",2035,5.87530000000003e-07,1.68519376874414
+"Taiwan","Policy_NoDAC","regional natural gas",2040,7.63610000000001e-07,2.10522746276821
+"Taiwan","Policy_NoDAC","regional natural gas",2045,1.3339e-07,0.349003929859081
+"Taiwan","Policy_NoDAC","regional natural gas",2050,-7.9043e-06,-19.7624643937862
+"Taiwan","Policy_NoDAC","regional natural gas",2055,-2.153566e-05,-52.3818349693186
+"Taiwan","Policy_NoDAC","regional natural gas",2060,-2.524385e-05,-61.8042421504792
+"Taiwan","Policy_NoDAC","regional natural gas",2065,-1.963697e-05,-54.8544456834846
+"Taiwan","Policy_NoDAC","regional natural gas",2070,-1.651297e-05,-49.084315610969
+"Taiwan","Policy_NoDAC","regional natural gas",2075,-1.423555e-05,-43.9694662618811
+"Taiwan","Policy_NoDAC","regional natural gas",2080,-1.195919e-05,-37.9354786728535
+"Taiwan","Policy_NoDAC","regional natural gas",2085,-9.46415e-06,-31.1630816849003
+"Taiwan","Policy_NoDAC","regional natural gas",2090,-7.44097e-06,-25.7397483368202
+"Taiwan","Policy_NoDAC","regional natural gas",2095,-6.75342e-06,-24.8361734591994
+"Taiwan","Policy_NoDAC","regional natural gas",2100,-6.0144e-06,-23.6032932527876
+"Taiwan","Policy_NoDAC","regional oil",1990,0,0
+"Taiwan","Policy_NoDAC","regional oil",2005,0,0
+"Taiwan","Policy_NoDAC","regional oil",2010,0,0
+"Taiwan","Policy_NoDAC","regional oil",2015,0,0
+"Taiwan","Policy_NoDAC","regional oil",2020,0,0
+"Taiwan","Policy_NoDAC","regional oil",2025,-0.000200069999999997,-0.0705520746566265
+"Taiwan","Policy_NoDAC","regional oil",2030,0.000280920000000018,0.10078689262372
+"Taiwan","Policy_NoDAC","regional oil",2035,-0.00284331000000004,-1.05220117728587
+"Taiwan","Policy_NoDAC","regional oil",2040,-0.00403197,-1.56504917966863
+"Taiwan","Policy_NoDAC","regional oil",2045,-0.00523463999999998,-2.18044041677392
+"Taiwan","Policy_NoDAC","regional oil",2050,-0.01470943,-6.63944104482762
+"Taiwan","Policy_NoDAC","regional oil",2055,-0.041211746,-19.8074524196703
+"Taiwan","Policy_NoDAC","regional oil",2060,-0.093968406,-47.2804956822922
+"Taiwan","Policy_NoDAC","regional oil",2065,-0.092819506,-48.274987483907
+"Taiwan","Policy_NoDAC","regional oil",2070,-0.10337908,-55.84007407383
+"Taiwan","Policy_NoDAC","regional oil",2075,-0.09004318,-51.6664925193245
+"Taiwan","Policy_NoDAC","regional oil",2080,-0.08771123,-54.237922121224
+"Taiwan","Policy_NoDAC","regional oil",2085,-0.08992726,-60.4773816914263
+"Taiwan","Policy_NoDAC","regional oil",2090,-0.09091768,-66.1777501698523
+"Taiwan","Policy_NoDAC","regional oil",2095,-0.08792992,-69.0875593880124
+"Taiwan","Policy_NoDAC","regional oil",2100,-0.08281619,-70.9106833631534
+"China","NoDAC","biomass",1990,0,NA
+"China","NoDAC","biomass",2005,0,NA
+"China","NoDAC","biomass",2010,0,NA
+"China","NoDAC","biomass",2015,0,NA
+"China","NoDAC","biomass",2020,3.83300030007416e-07,0.000492344363309315
+"China","NoDAC","biomass",2025,6.4710705100085e-06,0.00621886608444501
+"China","NoDAC","biomass",2030,0.000118396529230014,0.0663163654938933
+"China","NoDAC","biomass",2035,0.00627750916580994,1.17777828768661
+"China","NoDAC","biomass",2040,0.08339988295745,8.14451917332519
+"China","NoDAC","biomass",2045,0.354743571341,22.8571352205315
+"China","NoDAC","biomass",2050,0.84680491773216,40.1442455067402
+"China","NoDAC","biomass",2055,2.30216581485648,85.0611999043845
+"China","NoDAC","biomass",2060,5.04892740575261,149.632600307807
+"China","NoDAC","biomass",2065,5.20103412008506,140.74232245367
+"China","NoDAC","biomass",2070,5.56300732281231,142.601912824225
+"China","NoDAC","biomass",2075,6.20886792200916,151.02996617396
+"China","NoDAC","biomass",2080,6.62196511568142,152.909693148975
+"China","NoDAC","biomass",2085,6.81178879851481,150.655402249623
+"China","NoDAC","biomass",2090,7.02972918827881,149.901768790752
+"China","NoDAC","biomass",2095,7.31668684348552,147.828307917857
+"China","NoDAC","biomass",2100,7.69300258991928,145.132973792593
+"China","NoDAC","nuclearFuelGenIII",1990,0,NA
+"China","NoDAC","nuclearFuelGenIII",2005,0,NA
+"China","NoDAC","nuclearFuelGenIII",2010,0,NA
+"China","NoDAC","nuclearFuelGenIII",2015,0,NA
+"China","NoDAC","nuclearFuelGenIII",2020,0,0
+"China","NoDAC","nuclearFuelGenIII",2025,0,0
+"China","NoDAC","nuclearFuelGenIII",2030,-3.99999999997624e-07,-0.000502083647132631
+"China","NoDAC","nuclearFuelGenIII",2035,0.00014900000000001,0.0550723887741072
+"China","NoDAC","nuclearFuelGenIII",2040,0.00181699999999996,0.440641877226541
+"China","NoDAC","nuclearFuelGenIII",2045,0.012055,2.1305399783323
+"China","NoDAC","nuclearFuelGenIII",2050,0.0581430000000001,8.4465608988281
+"China","NoDAC","nuclearFuelGenIII",2055,0.0575659999999999,7.40903767198217
+"China","NoDAC","nuclearFuelGenIII",2060,0.022024,2.58985834801281
+"China","NoDAC","nuclearFuelGenIII",2065,0.031436,3.36753068817133
+"China","NoDAC","nuclearFuelGenIII",2070,0.0285729999999998,2.92628122737284
+"China","NoDAC","nuclearFuelGenIII",2075,0.03118,3.08291641124009
+"China","NoDAC","nuclearFuelGenIII",2080,0.04616,4.5457231205562
+"China","NoDAC","nuclearFuelGenIII",2085,0.0419700000000001,4.17470706427677
+"China","NoDAC","nuclearFuelGenIII",2090,0.032218,3.26099058484871
+"China","NoDAC","nuclearFuelGenIII",2095,0.0306150000000001,3.59486256974844
+"China","NoDAC","nuclearFuelGenIII",2100,0.0233819999999999,3.13513585990975
+"China","NoDAC","regional coal",1990,0,0
+"China","NoDAC","regional coal",2005,0,0
+"China","NoDAC","regional coal",2010,0,0
+"China","NoDAC","regional coal",2015,0,0
+"China","NoDAC","regional coal",2020,-1.00000000013978e-06,-8.5662863533043e-05
+"China","NoDAC","regional coal",2025,-7.00000000009027e-06,-0.000558013472046735
+"China","NoDAC","regional coal",2030,0,0
+"China","NoDAC","regional coal",2035,-0.00026920000000008,-0.0304168418007946
+"China","NoDAC","regional coal",2040,-0.00326870000000001,-0.486357961959718
+"China","NoDAC","regional coal",2045,-0.016851,-3.4719754038018
+"China","NoDAC","regional coal",2050,-0.05961381,-16.0971095100538
+"China","NoDAC","regional coal",2055,-0.06937381,-20.6390924653153
+"China","NoDAC","regional coal",2060,-0.08552268,-25.8009694971623
+"China","NoDAC","regional coal",2065,-0.1141435,-30.9155533454348
+"China","NoDAC","regional coal",2070,-0.1196431,-31.650441518039
+"China","NoDAC","regional coal",2075,-0.1241685,-32.8608932914484
+"China","NoDAC","regional coal",2080,-0.122807,-33.3430170995401
+"China","NoDAC","regional coal",2085,-0.125299,-35.3745126437366
+"China","NoDAC","regional coal",2090,-0.133541,-38.8540554380432
+"China","NoDAC","regional coal",2095,-0.1120814,-37.9182440364427
+"China","NoDAC","regional coal",2100,-0.0957797,-37.5100207837026
+"China","NoDAC","regional natural gas",1990,0,0
+"China","NoDAC","regional natural gas",2005,0,0
+"China","NoDAC","regional natural gas",2010,0,0
+"China","NoDAC","regional natural gas",2015,0,0
+"China","NoDAC","regional natural gas",2020,-1.00000000006996e-10,-4.36606294234201e-05
+"China","NoDAC","regional natural gas",2025,1.19999999997553e-09,0.000458198021720696
+"China","NoDAC","regional natural gas",2030,1.69999999999966e-08,0.00567309617566463
+"China","NoDAC","regional natural gas",2035,5.59999999999981e-07,0.163420150288168
+"China","NoDAC","regional natural gas",2040,4.693e-06,1.25178044629854
+"China","NoDAC","regional natural gas",2045,1.164e-05,2.85987356607069
+"China","NoDAC","regional natural gas",2050,-5.5153e-05,-12.3933477296577
+"China","NoDAC","regional natural gas",2055,-0.000227675,-42.411005346199
+"China","NoDAC","regional natural gas",2060,-0.000430578,-64.0965218491585
+"China","NoDAC","regional natural gas",2065,-0.000481427,-66.1132816523274
+"China","NoDAC","regional natural gas",2070,-0.000497866,-66.2458435512007
+"China","NoDAC","regional natural gas",2075,-0.000501057,-66.2172073790088
+"China","NoDAC","regional natural gas",2080,-0.000484757,-65.2669206845018
+"China","NoDAC","regional natural gas",2085,-0.000450978,-62.0142268401316
+"China","NoDAC","regional natural gas",2090,-0.000413464,-58.5087806189593
+"China","NoDAC","regional natural gas",2095,-0.000381846,-54.8019874449965
+"China","NoDAC","regional natural gas",2100,-0.000360174,-52.5506102409595
+"China","NoDAC","regional oil",1990,0,0
+"China","NoDAC","regional oil",2005,0,0
+"China","NoDAC","regional oil",2010,0,0
+"China","NoDAC","regional oil",2015,0,0
+"China","NoDAC","regional oil",2020,0,0
+"China","NoDAC","regional oil",2025,9.99999999962142e-06,0.000218354437281431
+"China","NoDAC","regional oil",2030,0.000109999999999388,0.00227313117618809
+"China","NoDAC","regional oil",2035,0.00234999999999985,0.0465628677971177
+"China","NoDAC","regional oil",2040,0.0305799999999996,0.603535557875658
+"China","NoDAC","regional oil",2045,0.166440000000001,3.40901410181574
+"China","NoDAC","regional oil",2050,0.143706,3.21249893815359
+"China","NoDAC","regional oil",2055,-0.630387,-15.7147073648754
+"China","NoDAC","regional oil",2060,-1.696836,-46.5537179493863
+"China","NoDAC","regional oil",2065,-1.643862,-45.1622846781505
+"China","NoDAC","regional oil",2070,-1.812995,-49.3446103180327
+"China","NoDAC","regional oil",2075,-1.851747,-50.9088134866305
+"China","NoDAC","regional oil",2080,-1.980203,-54.8628431000424
+"China","NoDAC","regional oil",2085,-1.978492,-55.0287313163004
+"China","NoDAC","regional oil",2090,-2.011994,-55.779642033357
+"China","NoDAC","regional oil",2095,-2.010754,-55.9336725184915
+"China","NoDAC","regional oil",2100,-1.957156,-55.3716707501316
+"Global","NoDAC","biomass",1990,0,NA
+"Global","NoDAC","biomass",2005,0,NA
+"Global","NoDAC","biomass",2010,0,NA
+"Global","NoDAC","biomass",2015,0,NA
+"Global","NoDAC","biomass",2020,2.79862952701215e-05,0.000844644402447823
+"Global","NoDAC","biomass",2025,0.000323820637699868,0.00714952703559934
+"Global","NoDAC","biomass",2030,0.00655403200440041,0.0820806010841223
+"Global","NoDAC","biomass",2035,0.216147504790801,1.11566387341344
+"Global","NoDAC","biomass",2040,2.6613844244056,7.91443816308906
+"Global","NoDAC","biomass",2045,11.0854162672765,23.5914090469392
+"Global","NoDAC","biomass",2050,25.7365242471466,44.6670904895128
+"Global","NoDAC","biomass",2055,41.9672657844097,68.9797038751351
+"Global","NoDAC","biomass",2060,63.8656825934179,99.6222730603051
+"Global","NoDAC","biomass",2065,65.4191772898144,101.05867464473
+"Global","NoDAC","biomass",2070,68.2668578687336,103.56376009798
+"Global","NoDAC","biomass",2075,74.3620919450182,109.376626413756
+"Global","NoDAC","biomass",2080,79.1715297891263,111.453340120422
+"Global","NoDAC","biomass",2085,83.6579612260088,113.02547938978
+"Global","NoDAC","biomass",2090,88.02089679005,113.976224449846
+"Global","NoDAC","biomass",2095,92.403922285175,114.788229330279
+"Global","NoDAC","biomass",2100,96.7997958054122,114.555157211329
+"Global","NoDAC","nuclearFuelGenIII",1990,0,NA
+"Global","NoDAC","nuclearFuelGenIII",2005,0,NA
+"Global","NoDAC","nuclearFuelGenIII",2010,0,NA
+"Global","NoDAC","nuclearFuelGenIII",2015,0,NA
+"Global","NoDAC","nuclearFuelGenIII",2020,-1.0155077699997e-05,-0.00458066163076604
+"Global","NoDAC","nuclearFuelGenIII",2025,-8.55101899999156e-06,-0.00202523400221182
+"Global","NoDAC","nuclearFuelGenIII",2030,1.76157900000362e-05,0.00288635740520046
+"Global","NoDAC","nuclearFuelGenIII",2035,0.000465840382000149,0.0463493834398552
+"Global","NoDAC","nuclearFuelGenIII",2040,0.00599349766200019,0.447488063965174
+"Global","NoDAC","nuclearFuelGenIII",2045,0.02976016688,1.75045954697226
+"Global","NoDAC","nuclearFuelGenIII",2050,0.1044908993,5.12073332632099
+"Global","NoDAC","nuclearFuelGenIII",2055,0.1514172953,6.50831683851624
+"Global","NoDAC","nuclearFuelGenIII",2060,0.173285989,6.69227393828675
+"Global","NoDAC","nuclearFuelGenIII",2065,0.194591838,6.78699138031427
+"Global","NoDAC","nuclearFuelGenIII",2070,0.202141517,6.54882651402527
+"Global","NoDAC","nuclearFuelGenIII",2075,0.212688338,6.46248114267586
+"Global","NoDAC","nuclearFuelGenIII",2080,0.239922802,7.31866996808933
+"Global","NoDAC","nuclearFuelGenIII",2085,0.252468097,7.72650403772556
+"Global","NoDAC","nuclearFuelGenIII",2090,0.259658504,7.97778662200406
+"Global","NoDAC","nuclearFuelGenIII",2095,0.255001362,8.26023461289487
+"Global","NoDAC","nuclearFuelGenIII",2100,0.24072549,8.14990473441789
+"Global","NoDAC","regional coal",1990,0,0
+"Global","NoDAC","regional coal",2005,0,0
+"Global","NoDAC","regional coal",2010,0,0
+"Global","NoDAC","regional coal",2015,0,0
+"Global","NoDAC","regional coal",2020,5.89350000002042e-06,0.00029881018826784
+"Global","NoDAC","regional coal",2025,-1.87018100001879e-05,-0.000910247869102913
+"Global","NoDAC","regional coal",2030,-0.00012750926000038,-0.00613308076151355
+"Global","NoDAC","regional coal",2035,-0.00156419436999999,-0.0991564640821276
+"Global","NoDAC","regional coal",2040,-0.0108234163900001,-0.828457375086928
+"Global","NoDAC","regional coal",2045,-0.0439342120399999,-4.0280574835105
+"Global","NoDAC","regional coal",2050,-0.12576055585,-12.9339998927643
+"Global","NoDAC","regional coal",2055,-0.15716974998,-16.8670950864629
+"Global","NoDAC","regional coal",2060,-0.19414431573,-21.0818667945322
+"Global","NoDAC","regional coal",2065,-0.23324950323,-24.3485714012759
+"Global","NoDAC","regional coal",2070,-0.23704856249,-24.564207481797
+"Global","NoDAC","regional coal",2075,-0.25586789253,-26.5064442906566
+"Global","NoDAC","regional coal",2080,-0.27898953285,-28.7614580408035
+"Global","NoDAC","regional coal",2085,-0.28989861548,-30.2501023720683
+"Global","NoDAC","regional coal",2090,-0.3001784099,-31.6061777286318
+"Global","NoDAC","regional coal",2095,-0.2728879285,-30.7835764905745
+"Global","NoDAC","regional coal",2100,-0.24967528951,-30.1444910358919
+"Global","NoDAC","regional natural gas",1990,0,0
+"Global","NoDAC","regional natural gas",2005,0,0
+"Global","NoDAC","regional natural gas",2010,0,0
+"Global","NoDAC","regional natural gas",2015,0,0
+"Global","NoDAC","regional natural gas",2020,5.85500000002334e-09,0.000202235042208422
+"Global","NoDAC","regional natural gas",2025,-7.53549999998708e-08,-0.00249117585543008
+"Global","NoDAC","regional natural gas",2030,-7.73139000000232e-07,-0.0239295734083022
+"Global","NoDAC","regional natural gas",2035,-1.14137889999999e-05,-0.349322304084331
+"Global","NoDAC","regional natural gas",2040,-0.000120545535,-3.53491367200849
+"Global","NoDAC","regional natural gas",2045,-0.000504023272,-12.8726931157124
+"Global","NoDAC","regional natural gas",2050,-0.001178522157,-25.5504248718375
+"Global","NoDAC","regional natural gas",2055,-0.001728909389,-33.2374988219919
+"Global","NoDAC","regional natural gas",2060,-0.002259702003,-39.3531833653815
+"Global","NoDAC","regional natural gas",2065,-0.002408815347,-39.6395298611885
+"Global","NoDAC","regional natural gas",2070,-0.002446201295,-38.7037124715045
+"Global","NoDAC","regional natural gas",2075,-0.002488141044,-37.8636004581453
+"Global","NoDAC","regional natural gas",2080,-0.002504064296,-36.8733599228129
+"Global","NoDAC","regional natural gas",2085,-0.00248836615,-35.4368503789504
+"Global","NoDAC","regional natural gas",2090,-0.002449577141,-33.8586366034258
+"Global","NoDAC","regional natural gas",2095,-0.002421933461,-32.5780531167897
+"Global","NoDAC","regional natural gas",2100,-0.002374298725,-31.122044472808
+"Global","NoDAC","regional oil",1990,0,0
+"Global","NoDAC","regional oil",2005,0,0
+"Global","NoDAC","regional oil",2010,0,0
+"Global","NoDAC","regional oil",2015,0,0
+"Global","NoDAC","regional oil",2020,-1.00799999991352e-05,-4.1324894243037e-05
+"Global","NoDAC","regional oil",2025,-0.000100580000001571,-0.000394549596015032
+"Global","NoDAC","regional oil",2030,-0.00111065999999838,-0.00434081388077224
+"Global","NoDAC","regional oil",2035,-0.0206977600000009,-0.0822109797807623
+"Global","NoDAC","regional oil",2040,-0.184322330000001,-0.750936945060587
+"Global","NoDAC","regional oil",2045,-0.674751490000002,-2.83310246324925
+"Global","NoDAC","regional oil",2050,-1.85880302,-7.92120982607641
+"Global","NoDAC","regional oil",2055,-3.001528826,-12.7242635951072
+"Global","NoDAC","regional oil",2060,-4.443003536,-18.6542410290858
+"Global","NoDAC","regional oil",2065,-5.37770313,-21.8418943661472
+"Global","NoDAC","regional oil",2070,-7.587488024,-29.6413771346735
+"Global","NoDAC","regional oil",2075,-8.758775641,-33.3876574332722
+"Global","NoDAC","regional oil",2080,-9.794688155,-36.7023459186199
+"Global","NoDAC","regional oil",2085,-10.678599751,-39.6210270035348
+"Global","NoDAC","regional oil",2090,-11.6353921866,-42.7141622771492
+"Global","NoDAC","regional oil",2095,-12.6044435561,-45.7131211129727
+"Global","NoDAC","regional oil",2100,-13.4537497583,-48.0944093165817
+"Taiwan","NoDAC","nuclearFuelGenIII",1990,0,NA
+"Taiwan","NoDAC","nuclearFuelGenIII",2005,0,NA
+"Taiwan","NoDAC","nuclearFuelGenIII",2010,0,NA
+"Taiwan","NoDAC","nuclearFuelGenIII",2015,0,NA
+"Taiwan","NoDAC","nuclearFuelGenIII",2020,9.9999999998864e-10,0.000421387967683184
+"Taiwan","NoDAC","nuclearFuelGenIII",2025,0,0
+"Taiwan","NoDAC","nuclearFuelGenIII",2030,4.99999999997031e-09,0.00069186053751618
+"Taiwan","NoDAC","nuclearFuelGenIII",2035,6.80000000000298e-07,0.0321974270467998
+"Taiwan","NoDAC","nuclearFuelGenIII",2040,1.709e-05,0.449616155663479
+"Taiwan","NoDAC","nuclearFuelGenIII",2045,0.00017483,2.75718827670607
+"Taiwan","NoDAC","nuclearFuelGenIII",2050,0.00137056,14.6390752739166
+"Taiwan","NoDAC","nuclearFuelGenIII",2055,0.002208,18.7858935636193
+"Taiwan","NoDAC","nuclearFuelGenIII",2060,0.0011656,8.30785240304773
+"Taiwan","NoDAC","nuclearFuelGenIII",2065,0.0017321,11.8763884698719
+"Taiwan","NoDAC","nuclearFuelGenIII",2070,0.0017506,11.1598434332488
+"Taiwan","NoDAC","nuclearFuelGenIII",2075,0.0018575,10.8900210472008
+"Taiwan","NoDAC","nuclearFuelGenIII",2080,0.0019313,10.4842868698055
+"Taiwan","NoDAC","nuclearFuelGenIII",2085,0.0017187,8.75017182655446
+"Taiwan","NoDAC","nuclearFuelGenIII",2090,0.000815699999999999,3.89387205644372
+"Taiwan","NoDAC","nuclearFuelGenIII",2095,0.000766900000000001,3.73394486479118
+"Taiwan","NoDAC","nuclearFuelGenIII",2100,0.000644299999999997,3.21186440677965
+"Taiwan","NoDAC","regional coal",1990,0,0
+"Taiwan","NoDAC","regional coal",2005,0,0
+"Taiwan","NoDAC","regional coal",2010,0,0
+"Taiwan","NoDAC","regional coal",2015,0,0
+"Taiwan","NoDAC","regional coal",2020,9.99999999473644e-10,4.19633263805827e-06
+"Taiwan","NoDAC","regional coal",2025,-2.00000000241674e-09,-7.71549543613684e-06
+"Taiwan","NoDAC","regional coal",2030,-1.33999999998857e-07,-0.000507972880764084
+"Taiwan","NoDAC","regional coal",2035,-3.46099999999974e-06,-0.0171103864643532
+"Taiwan","NoDAC","regional coal",2040,-5.90610000000026e-05,-0.374315828354334
+"Taiwan","NoDAC","regional coal",2045,-0.000499836,-5.12904867309534
+"Taiwan","NoDAC","regional coal",2050,-0.001645088,-33.3863901623182
+"Taiwan","NoDAC","regional coal",2055,-0.0011625154,-33.4771482973388
+"Taiwan","NoDAC","regional coal",2060,-0.001568128,-47.6339001750281
+"Taiwan","NoDAC","regional coal",2065,-0.002443024,-58.8290509110708
+"Taiwan","NoDAC","regional coal",2070,-0.002942976,-62.1440177712646
+"Taiwan","NoDAC","regional coal",2075,-0.002983953,-60.018464416274
+"Taiwan","NoDAC","regional coal",2080,-0.002495955,-53.4937789856959
+"Taiwan","NoDAC","regional coal",2085,-0.002255858,-50.6839392347592
+"Taiwan","NoDAC","regional coal",2090,-0.002428255,-53.5770982398859
+"Taiwan","NoDAC","regional coal",2095,-0.002182115,-50.7789102238017
+"Taiwan","NoDAC","regional coal",2100,-0.002080476,-48.6663557099007
+"Taiwan","NoDAC","regional natural gas",1990,0,0
+"Taiwan","NoDAC","regional natural gas",2005,0,0
+"Taiwan","NoDAC","regional natural gas",2010,0,0
+"Taiwan","NoDAC","regional natural gas",2015,0,0
+"Taiwan","NoDAC","regional natural gas",2020,9.99999999392329e-13,3.76562820202599e-06
+"Taiwan","NoDAC","regional natural gas",2025,-1.08999999998138e-10,-0.000357311713848712
+"Taiwan","NoDAC","regional natural gas",2030,-1.71999999997125e-10,-0.000520221383225481
+"Taiwan","NoDAC","regional natural gas",2035,-3.99999999999522e-09,-0.0112816616308015
+"Taiwan","NoDAC","regional natural gas",2040,4.25900000000046e-08,0.115129547096756
+"Taiwan","NoDAC","regional natural gas",2045,7.72799999999987e-08,0.201900339923046
+"Taiwan","NoDAC","regional natural gas",2050,-5.46663e-06,-14.5548347314056
+"Taiwan","NoDAC","regional natural gas",2055,-1.897852e-05,-49.2236426779957
+"Taiwan","NoDAC","regional natural gas",2060,-2.837525e-05,-64.5240328586453
+"Taiwan","NoDAC","regional natural gas",2065,-1.562689e-05,-49.1593432036502
+"Taiwan","NoDAC","regional natural gas",2070,-1.303562e-05,-43.2148173195822
+"Taiwan","NoDAC","regional natural gas",2075,-1.140153e-05,-38.5943456038985
+"Taiwan","NoDAC","regional natural gas",2080,-8.63376e-06,-30.6165502054103
+"Taiwan","NoDAC","regional natural gas",2085,-6.62792e-06,-24.0721854670235
+"Taiwan","NoDAC","regional natural gas",2090,-1.656435e-05,-43.5538782483949
+"Taiwan","NoDAC","regional natural gas",2095,-1.889987e-05,-48.044425893124
+"Taiwan","NoDAC","regional natural gas",2100,-1.952221e-05,-50.0710713278104
+"Taiwan","NoDAC","regional oil",1990,0,0
+"Taiwan","NoDAC","regional oil",2005,0,0
+"Taiwan","NoDAC","regional oil",2010,0,0
+"Taiwan","NoDAC","regional oil",2015,0,0
+"Taiwan","NoDAC","regional oil",2020,0,0
+"Taiwan","NoDAC","regional oil",2025,0,0
+"Taiwan","NoDAC","regional oil",2030,2.8799999999829e-06,0.00103224045352592
+"Taiwan","NoDAC","regional oil",2035,4.79199999999791e-05,0.0179251617762605
+"Taiwan","NoDAC","regional oil",2040,0.000729399999999991,0.288454998014743
+"Taiwan","NoDAC","regional oil",2045,0.00468125000000003,2.03394026617778
+"Taiwan","NoDAC","regional oil",2050,0.00535789,2.6592810790252
+"Taiwan","NoDAC","regional oil",2055,-0.011271336,-6.32789511378785
+"Taiwan","NoDAC","regional oil",2060,-0.058627896,-35.8786349228594
+"Taiwan","NoDAC","regional oil",2065,-0.060439656,-37.8001559922
+"Taiwan","NoDAC","regional oil",2070,-0.07859636,-49.0150481295808
+"Taiwan","NoDAC","regional oil",2075,-0.07231137,-46.1918006156661
+"Taiwan","NoDAC","regional oil",2080,-0.07753455,-51.1647462920604
+"Taiwan","NoDAC","regional oil",2085,-0.08722389,-59.7455331896911
+"Taiwan","NoDAC","regional oil",2090,-0.09569727,-67.3148656495525
+"Taiwan","NoDAC","regional oil",2095,-0.09824858,-71.4058292128122
+"Taiwan","NoDAC","regional oil",2100,-0.09911079,-74.4723334217987
